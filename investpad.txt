@@ -1,0 +1,35 @@
+https://www.hotbit.io/exchange?symbol=KEEP_USDT
+https://www.mxc.co/trade/easy#KEEP_USDT
+(withdraweth)- 
+https://www.okex.com/markets/spot?product=lrc_usdt
+
+Deposit 5K KEEP into mxc.co
+MXC.co: Before trading KEEP>USDT: 0.28 BTC / after: 0.27444038 BTC (normal because KEEP have a value depreciation after selling - around 0.52 / 0.51 / 0.50 / 0.49)
+Withdraw 3778.78 from MXC.co to Argent
+Exchange 599.85 USDT > 2.65 ETH when ETH is 225 USD
+Deposit 1.66 ETH into OKEx
+Deposit 3936.726 KEEP into Loopring
+Deposit 0.7 ETH into Loopring
+Loopring buy 2107.100 @ 0.00033221 ETH/0.075 USD total -0.7000 ETH
+Deposit 0.13 ETH into Loopring
+Loopring: exchange 0.13 ETH to 28.97 USDT
+Loopring: exchange 28.92 USDT @ 0.0736 USD to 392.944 LRC
+Loopring: exchange 2497.936 LRC @ 0.00033000 ETH/0.075 USD to 0.8243 ETH
+Loopring: exchange 0.8234 ETH @ 222.72 USD to 183.39 USDT
+Loopring: exchange 182.96 USDT @ 0.0736 USD to 2485.883 LRC
+Loopring: withdraw 2485.499 LRC
+=
+Loopring order: sell 984.182 KEEP to 491.60 USDT @ $0.4995
+- Loopring order: sell 984.181 KEEP to 491.99 USDT @ $0.4999
+- Loopring order: sell 1968.363 KEEP to 984.18 USDT @ $0.5000
+=
+OKex: exchange 1.66184 ETH to 4,891.2161 LRC @ $0.075986
+Loopring: sell 7468.120 LRC to 578.03 USDT @ $0.0774
+MXC.co: 1321.745111 USDT to 3121.81 KEEP @ $0.41/0.42
+================================================
+profit: 1000 KEEP
+================================================
+MXC.co sell order: 100 KEEP > 43.5000 USDT @$0.4350
+- MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
+- MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300
+- MXC.co buy order: 43.3280 USDT > 108.32 KEEP @$0.40

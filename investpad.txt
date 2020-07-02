@@ -20,16 +20,19 @@ Loopring: exchange 182.96 USDT @ 0.0736 USD to 2485.883 LRC
 Loopring: withdraw 2485.499 LRC
 =
 Loopring order: sell 984.182 KEEP to 491.60 USDT @ $0.4995
-- Loopring order: sell 984.181 KEEP to 491.99 USDT @ $0.4999
+Loopring order: sell 984.181 KEEP to 491.99 USDT @ $0.4999
 - Loopring order: sell 1968.363 KEEP to 984.18 USDT @ $0.5000
 =
 OKex: exchange 1.66184 ETH to 4,891.2161 LRC @ $0.075986
 Loopring: sell 7468.120 LRC to 578.03 USDT @ $0.0774
 MXC.co: 1321.745111 USDT to 3121.81 KEEP @ $0.41/0.42
 ================================================
-profit: 1000 KEEP
+profit: 1000+ KEEP
 ================================================
 MXC.co sell order: 100 KEEP > 43.5000 USDT @$0.4350
-- MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
+8 kp
+MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
 - MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300
 - MXC.co buy order: 43.3280 USDT > 108.32 KEEP @$0.40
+- MXC.co buy order: 1354.3840 USDT > 3385.96 KEEP @$0.40
+364.15 kp

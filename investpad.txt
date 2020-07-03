@@ -1,6 +1,5 @@
 https://www.hotbit.io/exchange?symbol=KEEP_USDT
 https://www.mxc.co/trade/easy#KEEP_USDT
-(withdraweth)- 
 https://www.okex.com/markets/spot?product=lrc_usdt
 
 Deposit 5K KEEP into mxc.co
@@ -36,3 +35,7 @@ MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
 1MXC.co buy order: 1397.7091 USDT > 3444.33 KEEP @$0.4058
 364.15 kp
 -1 MXC.co sell order: 3444.33 KEEP > 1481.0619 USDT @$0.43
+======
+withdraw 10% daily prof from MXC.co: 8.58 USDT > 0.03790 ETH @$226.48
+withdraw 10% daily prof from MXC.co: 5.20 USDT > 0.02300 ETH @$226.48
+======

@@ -31,7 +31,7 @@ profit: 1000+ KEEP
 1MXC.co sell order: 100 KEEP > 43.5000 USDT @$0.4350
 8 kp
 MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
-- MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300
+-2MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300
 1MXC.co buy order: 1397.7091 USDT > 3444.33 KEEP @$0.4058
 364.15 kp
 1 MXC.co sell order: 3444.33 KEEP > 1481.0619 USDT @$0.43
@@ -42,3 +42,4 @@ withdraw 10% daily prof from MXC.co: 5.20 USDT > 0.02300 ETH @$226.48
 209.06 kp
 -1MXC.co buy order: 1461.3560 USDT > 3653.39 KEEP @$0.40
 []Loopring withdraw 938.67 USDT (fee: $1.56) = 937.11 USDT
+-2MXC.co buy order: 3868.15 KEEP > 3653.39 KEEP @$0.50

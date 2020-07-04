@@ -42,4 +42,5 @@ withdraw 10% daily prof from MXC.co: 5.20 USDT > 0.02300 ETH @$226.48
 209.06 kp
 -1MXC.co buy order: 1461.3560 USDT > 3653.39 KEEP @$0.40
 []Loopring withdraw 938.67 USDT (fee: $1.56) = 937.11 USDT
--2MXC.co buy order: 3868.15 KEEP > 3653.39 KEEP @$0.50
+2MXC.co buy order: 1934.075 USDT > 3868.15 KEEP @$0.50
+-2MXC.co sell order: 3868.15 KEEP > 2050.1195 USDT @$0.53

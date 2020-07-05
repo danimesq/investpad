@@ -50,4 +50,5 @@ withdraw 10% daily prof from MXC.co: 5.20 USDT > 0.02300 ETH @$226.48
 MXC.co deposit: 0.8 ETH
 MXC.co sell order: 0.8 ETH > 181.448 USDT @$226.81
 MXC.co deposit: 938.67 USD
--5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
+5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
+-5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50

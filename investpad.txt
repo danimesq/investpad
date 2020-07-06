@@ -51,4 +51,5 @@ MXC.co deposit: 0.8 ETH
 MXC.co sell order: 0.8 ETH > 181.448 USDT @$226.81
 MXC.co deposit: 938.67 USD
 5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
--5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50
+-5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50 (2052.89 / 2377.70 KEEP completed)
+-5MXC.co buy order: 1022.3487 USDT > 2175.21 KEEP @$0.47

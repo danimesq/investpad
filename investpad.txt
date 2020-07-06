@@ -31,7 +31,7 @@ profit: 1000+ KEEP
 1MXC.co sell order: 100 KEEP > 43.5000 USDT @$0.4350
 8 kp
 MXC.co sell order: 3021.81 KEEP > 1359.8145 USDT @$0.4500
--2MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300 (3663.83 / 4842.05 KEEP completed)
+2MXC.co sell order: 4842.05 KEEP > 2566.2865 USDT @$0.5300
 1MXC.co buy order: 1397.7091 USDT > 3444.33 KEEP @$0.4058
 364.15 kp
 1 MXC.co sell order: 3444.33 KEEP > 1481.0619 USDT @$0.43
@@ -51,5 +51,6 @@ MXC.co deposit: 0.8 ETH
 MXC.co sell order: 0.8 ETH > 181.448 USDT @$226.81
 MXC.co deposit: 938.67 USD
 5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
--5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50 (2052.89 / 2377.70 KEEP completed)
--5MXC.co buy order: 1022.3487 USDT > 2175.21 KEEP @$0.47
+5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50
+-2MXC.co buy order: 624.4550 USDT > 1248.91 KEEP @$0.50
+-5MXC.co buy order: 1181.6129 USDT > 2514.07 KEEP @$0.47

@@ -50,6 +50,19 @@ MXC.co sell order: 0.8 ETH > 181.448 USDT @$226.81
 MXC.co deposit: 938.67 USD
 5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
 5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50
--2MXC.co buy order: 624.4550 USDT > 1248.91 KEEP @$0.50 (539.86 / 1248.91 completed)
+2MXC.co buy order: 624.4550 USDT > 1248.91 KEEP @$0.50
                                                                                                        5MXC.co buy order: 1181.6129 USDT > 2514.07 KEEP @$0.47
--2MXC.co buy order: 2642.9700 USDT > 5285.94 KEEP @$0.50
+-2MXC.co buy order: 2642.9700 USDT > 5285.94 KEEP @$0.50 (174.16 / 5285.94 KEEP)
+========================================================
+Total assets
+0.57186902 BTC (from 0.56 a few hours ago) ≈ 5328.25 USD
+========================================================
+Uniswap: 16,204 SLP to 3.71273382150211042
+MXC.co deposit: 3.79 ETH
+========================================================
+Total assets
+0.67310575 BTC ≈ 6220.83 USD
+========================================================
+MXC.co sell order: 3.79 ETH > 895.9939 USDT @$236.41
+-3-2MXC.co sell order: 1423.07 KEEP > 796.9192 USDT @$0.56
+-2MXC.co buy order: 1024.9850 USDT > 2049.97 KEEP @$0.50

@@ -72,7 +72,6 @@ Total assets
 0.71916719 BTC ≈ 6694.35 USD
 ========================================================
 6MXC.co buy order: 6680.9574 USDT > 12605.58 KEEP @$0.58
-                                                                                                     -7-6MXC.co sell order: 11518.90 KEEP > 7372.0960 USDT @$0.64
 Uniswap: 1,087 SLP to 0.610054304038946152
 MXC.co deposit: 0.599958906924183276 ETH
 ========================================================
@@ -80,7 +79,7 @@ Total assets
 0.76092456 BTC ≈ 7065.13 USD
 ========================================================
 MXC.co sell order: 0.59995 ETH > 145.8178475 USDT @$243.05
-                                                                                                     -6MXC.co buy order: 145.2610 USDT > 250.45 KEEP @$0.58
-ACCIDENT ORDER - Market： KEEP/USDT | Date: 2020-07-08 14:03:49 | Type： Sell Price: 0.5847 USDT | Quantity: 11518.9 | KEEP	Amount: 6735.10083 USDT |	Traded Number: 1597.62 KEEP | Average Price: 0.5847 USDT | Status: Has Parts Cancel
+ACCIDENT ORDER - Market： KEEP/USDT | Date: 2020-07-08 14:03:49 | Type： Sell | Price: 0.5847 USDT | Quantity: 11518.9 | KEEP	Amount: 6735.10083 USDT | Traded Number: 1597.62 KEEP | Average Price: 0.5847 USDT | Status: Has Parts Cancel
 -6MXC.co sell order: 9921.28 KEEP > 6051.9808 USDT @$0.61
 -6MXC.co buy order: 1075.6738 USDT > 1854.61 KEEP @$0.58
+Report: insanity for good: buying every testnetBTC for $20 each

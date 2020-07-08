@@ -72,4 +72,4 @@ Total assets
 0.71916719 BTC ≈ 6694.35 USD
 ========================================================
 6MXC.co buy order: 6680.9574 USDT > 12605.58 KEEP @$0.58
--6MXC.co sell order: 11518.90 KEEP > 7372.0960 USDT @$0.64
+-6MXC.co sell order: 11518.90 KEEP > 8063.2300 USDT @$0.70

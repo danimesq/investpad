@@ -42,17 +42,14 @@ withdraw 10% daily prof from MXC.co: 5.20 USDT > 0.02300 ETH @$226.48
 209.06 kp
 []Loopring withdraw 938.67 USDT (fee: $1.56) = 937.11 USDT
 2MXC.co buy order: 1934.075 USDT > 3868.15 KEEP @$0.50
--3MXC.co sell order: 3868.15 KEEP > 2166.1640 USDT @$0.56 (237.49 / 3868.15 KEEP)
-                                                                                                       4MXC.co buy order: 350.4780 USDT > 778.84 KEEP @$0.45
-                                                                                                       1.1MXC.co buy order: 1110.8840 USDT > 2777.21 KEEP @$0.40
+3MXC.co sell order: 3868.15 KEEP > 2166.1640 USDT @$0.56
 MXC.co deposit: 0.8 ETH
 MXC.co sell order: 0.8 ETH > 181.448 USDT @$226.81
 MXC.co deposit: 938.67 USD
 5MXC.co buy order: 1117.5190 USDT > 2377.70 KEEP @$0.47
 5MXC.co sell order: 2377.70 KEEP > 1188.8500 USDT @$0.50
 2MXC.co buy order: 624.4550 USDT > 1248.91 KEEP @$0.50
-                                                                                                       5MXC.co buy order: 1181.6129 USDT > 2514.07 KEEP @$0.47
--2MXC.co buy order: 2642.9700 USDT > 5285.94 KEEP @$0.50 (5044.26 / 5285.94 KEEP)
+2MXC.co buy order: 2642.9700 USDT > 5285.94 KEEP @$0.50
 ========================================================
 Total assets
 0.57186902 BTC (from 0.56 a few hours ago) ≈ 5328.25 USD
@@ -64,9 +61,10 @@ Total assets
 0.67310575 BTC ≈ 6220.83 USD
 ========================================================
 MXC.co sell order: 3.79 ETH > 895.9939 USDT @$236.41
--2MXC.co buy order: 1024.9850 USDT > 2049.97 KEEP @$0.50
+2MXC.co buy order: 1024.9850 USDT > 2049.97 KEEP @$0.50
 ========================================================
 Total assets
 0.68296853 BTC ≈ 6310.49 USD
 ========================================================
--3-2MXC.co sell order: 6293.17 KEEP > 3524.1752 USDT @$0.56
+3-2MXC.co sell order: 6293.17 KEEP > 3524.1752 USDT @$0.56
+-6MXC.co buy order: 6680.9574 USDT > 12605.58 KEEP @$0.53

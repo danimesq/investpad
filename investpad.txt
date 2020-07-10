@@ -88,9 +88,10 @@ Exchange 20 USDT > 1 testnetBTC https://sochain.com/tx/BTCTEST/522030dc6b8de9854
 Exchange 94.94 USDT > 4.747 testnetBTC (not completed, remaining amounts were sent in the next tx) https://sochain.com/tx/BTCTEST/16209be0a97a606787a526d40ffc4285e0aea5789f8a751707829995d44af5ec https://sochain.com/tx/BTCTEST/7b3688a109a1eb4eefa84cfffe750d8240c0cc30693978556c4019f3e34c69e5 https://sochain.com/tx/BTCTEST/ddadb853b653370e78facb45ab805e98fd6312ca396aefaadc37fa4f211cbf96 https://sochain.com/tx/BTCTEST/d8f4a4d1fdb3bcc3c14edab7315f61ae4da3d2d94f7e621da41b5a76bb77ed38 https://etherscan.io/tx/0xc4e8705807d50970bd89d545e7c2a7c880f99c18c465877caec5e96cb15411dd
 MXC.co withdraw: 11,571.634 KEEP > 11,571.134 KEEP > Argent
 Loopring deposit: 11556.832 KEEP
--Loopring sell order: 8320.000 KEEP > 4908.80 USDT @$0.59 (filled: 14.306 - 8.44)
+-Loopring sell order: 8320.000 KEEP > 4908.80 USDT @$0.59 (filled: 14.306 - 8.44 USDT)
 -Loopring sell order: 3251.138 KEEP > 1912.32 USDT @$0.5882
 Loopring withdraw: 8.44 USDT > Argent
 MXC.co deposit: 4.75 DAI from Argent https://cn.etherscan.com/tx/0x28ca9c4a08b94faa80d30619f2fabdc640c4a1f27013408ee88a267951d43030
 MXC.co deposit: 4.75 DAI from MetaMask https://etherscan.io/tx/0x2d245365361fc34622eefb0620a92e71ed5c89950d9f0d232c93e00a0cc228a3
--MXC.co sell order: 9.50 DAI > 9.6501 USDT @$1.0158 (5.11 / 9.50 DAI)
+MXC.co sell order: 9.50 DAI > 9.6501 USDT @$1.0158 (5.11 / 9.50 DAI)
+-MXC.co buy order: 5.1753 USDT > 10.02 KEEP @$0.5165

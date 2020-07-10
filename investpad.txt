@@ -93,4 +93,4 @@ Loopring deposit: 11556.832 KEEP
 Loopring withdraw: 8.44 USDT > Argent
 MXC.co deposit: 4.75 DAI from Argent https://cn.etherscan.com/tx/0x28ca9c4a08b94faa80d30619f2fabdc640c4a1f27013408ee88a267951d43030
 MXC.co deposit: 4.75 DAI from MetaMask https://etherscan.io/tx/0x2d245365361fc34622eefb0620a92e71ed5c89950d9f0d232c93e00a0cc228a3
--MXC.co sell order: 9.50 DAI > 9.6501 USDT @$1.0158
+-MXC.co sell order: 9.50 DAI > 9.6501 USDT @$1.0158 (5.11 / 9.50 DAI)

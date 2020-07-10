@@ -83,8 +83,11 @@ ACCIDENT ORDER - Market： KEEP/USDT | Date: 2020-07-08 14:03:49 | Type： Sell 
 6MXC.co buy order: 1075.6738 USDT > 1854.61 KEEP @$0.58 (66.52 / 1854.29 KEEP completed - Has Parts Cancel)
 Report: insanity for good: buying every testnetBTC for $20 each (max. 200 - remaining: 194.253)
 6MXC.co buy order: 918.6214 USDT > 1583.83 KEEP @$0.58
+(important note about the order above: for some minutes KEEP have reached $0.61, then started to fall 0.59, 0.55, 0.51, 0.52, and now going back to 0.54. It was useful to learn not to make this mistake again. my mistake was to think it was going to 0.70 after strong bull signs, then perceiving I should reduce it but only reducing order to 0.64 instead of 0.61, and buying at 0.58 while in a bull run without waiting. I shouldn't buy at 0.58 but to wait the tip to the dip, and also to have a lower threshold knowing it won't have the stakedrop launched sooner which wouldn't sustain the bull run for more than 0.60)
 Exchange 20 USDT > 1 testnetBTC https://sochain.com/tx/BTCTEST/522030dc6b8de9854a81002e005106e2820093f25c55455323577b105a7f6c35 https://sochain.com/tx/BTCTEST/e73a1d7ef6037f3b9e542ceeb2307efe8906f850bd1f532b53d75fbe48898672 https://etherscan.io/tx/0x1c856ec4af64bffc027357732ccf0c994a4caa224d67f32ddddb8605b4f11d69
 Exchange 94.94 USDT > 4.747 testnetBTC (not completed, remaining amounts were sent in the next tx) https://sochain.com/tx/BTCTEST/16209be0a97a606787a526d40ffc4285e0aea5789f8a751707829995d44af5ec https://sochain.com/tx/BTCTEST/7b3688a109a1eb4eefa84cfffe750d8240c0cc30693978556c4019f3e34c69e5 https://sochain.com/tx/BTCTEST/ddadb853b653370e78facb45ab805e98fd6312ca396aefaadc37fa4f211cbf96 https://sochain.com/tx/BTCTEST/d8f4a4d1fdb3bcc3c14edab7315f61ae4da3d2d94f7e621da41b5a76bb77ed38 https://etherscan.io/tx/0xc4e8705807d50970bd89d545e7c2a7c880f99c18c465877caec5e96cb15411dd
--6MXC.co sell order: 11221.92 KEEP > 6845.3712 USDT @$0.61
-(important note about the order above: for some minutes KEEP have reached $0.61, then started to fall 0.59, 0.55, 0.51, 0.52, and now going back to 0.54. It was useful to learn not to make this mistake again. my mistake was to think it was going to 0.70 after strong bull signs, then perceiving I should reduce it but only reducing order to 0.64 instead of 0.61, and buying at 0.58 while in a bull run without waiting. I shouldn't buy at 0.58 but to wait the tip to the dip, and also to have a lower threshold knowing it won't have the stakedrop launched sooner which wouldn't sustain the bull run for more than 0.60)
--MXC.co sell order: 349.71 KEEP > 189.2980 USDT @$0.5413
+MXC.co withdraw: 11,571.634 KEEP > 11,571.134 KEEP > Argent
+Loopring deposit: 11556.832 KEEP
+Loopring sell order: 8320.000 KEEP > 4908.80 USDT @$0.59 (filled: 14.306 - 8.44)
+Loopring sell order: 3251.138 KEEP > 1913.29 USDT @$0.5885
+Loopring withdraw: 8.44 USDT > Argent

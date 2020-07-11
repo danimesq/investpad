@@ -107,18 +107,19 @@ Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
 ========================================================================================================
 STATUS: COLD BEAR
 - How it happened
-After observing a bull run and its potential, amid the upcoming ETH/KEEP token stakedrop, my (arrogant and inconsequent) sell target was 0.70, then bought it at 0.58 while in a bull run (even seeing potential, AVOID TO BUY AMID A BULL RUN!) for then perceiving I should reduce it. Reduced to 0.64, for then reducing to 0.61. Since the time I've bought it at 0.58, I should sell it at 0.61, and another mistake, was to not be very careful to everyday read the news and Discord announcements of my token, and that would prevent me from doing this mistake, if I've quickly read that the stakedrop was postponned.
+After observing a bull run and its potential, amid the upcoming ETH/KEEP token stakedrop, my (arrogant and inconsequent) sell target was 0.70, then bought it at 0.58 while in a bull run (even seeing potential, AVOID TO BUY AMID A BULL RUN!) for then perceiving I should reduce it. Reduced to 0.64, for then reducing to 0.61. Since the time I've bought it at 0.58, I should sell it at 0.61/0.60, and another mistake, was to not be very careful to everyday read the news and Discord announcements of my token; and that would prevent me from doing this mistake, if I've quickly read that the stakedrop was postponned.
 
 - What was changed
-Since day 9 without daily earnings. The only earning of day 8 was the testnetBTC I bought to mint Ropsten TBTC to exchange to KEEP tokens.
+Since day 9 without daily earnings. The only earning (not liquid) of day 8 was the testnetBTC I bought to mint Ropsten TBTC to exchange to KEEP tokens.
 Another change is that I had a capital of 7K, and now 6K.
 
 - What it means
 Since day 8 without liquid earnings.
 What is saving these days is that I'll be granted 5,000 KEEP for my works, which means $3K if its sell target is at $0.61. These KEEP will be granted in a date too close (can be first or after) to the stakedrop. It is good. The problem is that right now our region is at winter (now, literally), and I should have liquid earnings. My prevision is of 18 days without liquid earnings. These $3K, if considered and divised by these days without liquid earning, means a solid earning of $150. For who was the whole life called a "bum", receiving $3000 in a month is not bad, also considering my country's currency have inflation and, much thankfully, that I've earned more than that on this month.
+It also means that all these days, till now to tomorrow, I'm having daily earnings; but in this phase, not liquid to use now.
 
 - ToDo recovery plan
 We need wear and other needs, even more on this winter. Which means that, even knowing I'm earning $150 per day, which is much more than the monthly brazillian version of stimulus check, I need liquid earnings.
 Same time, I shouldn't lose capital, being desperate for liquid earnings; I shouldn't do the same mistake I did in 2016.
-I need to talk with my mom and we need to decide what will be better. Today, right after waking, we had a flame discussion and she said, while the neighboors hiddenly recording: "I'll not move from my money saved to eat". But I didn't knew to explain it, also being sleepy. Today I'll tell about the days of the cold bear phase and if she can buy our need wear while saving for eat till day 28, which is my hardcap limit to resume liquid earning. News will be shared here, all tracked by git and the Ethereum blockchain.
+I need to talk with my mom and we need to decide what will be better. Today, right after waking, we had a flame discussion and she said, while the neighboors hiddenly recording: "I'll not move from my money saved to eat". But I didn't knew to explain it, also being sleepy. Today I'll tell about the days of the cold bear phase and if she can buy our need wear while saving for eat till day 28, which is my hardcap limit to resume liquid earning. News will be shared here, all tracked by git and the Ethereum blockchain. This hard cap to day 28 isn't overexhagerated, as for sure I'll be granted my tokens and, it will reach its $0.61 which is my sell target.
 ========================================================================================================

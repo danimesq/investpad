@@ -100,5 +100,7 @@ MXC.co buy order: 8.4233 USDT > 16.23 KEEP @$0.519 (1.98 / 16.23 KEEP)
 -MXC.co sell order: 26.20 KEEP > 14.4624 USDT @$0.5520
 Loopring sell order: 5778.416 KEEP > 3391.93 USDT @$0.5870
 Loopring sell order: 5778.416 KEEP > 3363.04 USDT @$0.5820 (filled: 13.730 - 7.99 USDT)
--Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55
+-Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55 (filled: 29.054 - 7.99 USDT) 
 -Loopring sell order: 5771.551 KEEP > 3232.07 USDT @$0.56
+Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
+Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55

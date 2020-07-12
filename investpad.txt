@@ -140,3 +140,7 @@ UPDATE 11/07/20: my plan about Loopring was right. Earned ~$40 (~200 BRL) in a t
 -MXC.co sell order: 26.20 KEEP > 14.4624 USDT @$0.5520
 Loopring withdraw 41.99 USDT (~$3 of fees)
 -Loopring sell order: 29.024 KEEP > 15.96 USDT @$0.55
+MXC.co deposit: Argent > 41.99 USDT https://cn.etherscan.com/tx/0x0694dc7fb95b8ec2830fad7832332e2ae1d4242df01528b49d45b673cdebc3fc
+MXC.co buy order: 5.453208 USDT > 5.34 DAI @$1.0212
+MXC.co sell order: 9.73 DAI > 9.910005 USDT @$1.0185
+-MXC.co buy order: 46.3235 USDT > 94.48 KEEP @$0.4903

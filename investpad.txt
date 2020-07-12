@@ -97,10 +97,9 @@ MXC.co sell order: 9.50 DAI > 9.6501 USDT @$1.0158 (5.11 / 9.50 DAI)
 MXC.co buy order: 5.17443 USDT > 9.97 KEEP @$0.519
 MXC.co deposit: 8.44 USDT from Argent https://cn.etherscan.com/tx/0x6b36516b2256feb5e1d479f0b6ad99ba6704d1685c2556682a7056308a0a8046
 MXC.co buy order: 8.4233 USDT > 16.23 KEEP @$0.519 (1.98 / 16.23 KEEP)
--MXC.co sell order: 26.20 KEEP > 14.4624 USDT @$0.5520
 Loopring sell order: 5778.416 KEEP > 3391.93 USDT @$0.5870
 Loopring sell order: 5778.416 KEEP > 3363.04 USDT @$0.5820 (filled: 13.730 - 7.99 USDT)
--Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55 (filled: 29.054 - 7.99 USDT) 
+-Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55 (Filled: 90.869 - 41.99 USDT | Fill PCTG: 1%)
 -Loopring sell order: 5771.551 KEEP > 3232.07 USDT @$0.56
 Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
 Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
@@ -134,5 +133,6 @@ My mom was awake while I was typing, then I decided to not let to say it tomorro
 - WHAT NEED TO BE DONE FOR NOW
 Not just to wait. My first test on Loopring, which I'm yet conducing: see if it is better at higher sells. I have a whole day to sell my KEEP tokens at $0.55 and $0.56; it looks like a loss, but not when considering I can buy it cheaper on other exchanges. If in one day I can't sell my tokens, the COLD BEAR will continue till its hard cap of day 28.
 
-
+I don't consider grants as earning; exchange is earning. So the cold bear status not only represents that I don't have liquid earnings, but also that I don't have now exchange earnings; but yes, will consider the token grant as earning.
 ========================================================================================================
+-MXC.co sell order: 26.20 KEEP > 13.0816 USDT @$0.4993

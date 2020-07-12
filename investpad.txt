@@ -138,3 +138,5 @@ I don't consider grants as earning; exchange is earning. So the cold bear status
 UPDATE 11/07/20: my plan about Loopring was right. Earned ~$40 (~200 BRL) in a trade, and going to buy cheaper at MXC.co. The problem is that I'll have a few of loss by selling on MXC as I need ether for withdraw fees.
 ========================================================================================================
 -MXC.co sell order: 26.20 KEEP > 14.4624 USDT @$0.5520
+Loopring withdraw 41.99 USDT (~$3 of fees)
+-Loopring sell order: 29.024 KEEP > 15.96 USDT @$0.55

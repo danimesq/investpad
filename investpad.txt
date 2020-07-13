@@ -166,5 +166,9 @@ KEEP Market Status (good, with available amount to buy)
 KEEP Market Status (good, with available amount to sell)
 0.5415 7.95%
 =============
--MXC.co sell order: 9172.26 KEEP > 5118.1210 USDT @$0.5580
--MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250
+MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250
+=============
+KEEP Market Status (good, with available amount to sell)
+0.5074 1.15%
+=============
+-MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580

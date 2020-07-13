@@ -99,8 +99,7 @@ MXC.co deposit: 8.44 USDT from Argent https://cn.etherscan.com/tx/0x6b36516b2256
 MXC.co buy order: 8.4233 USDT > 16.23 KEEP @$0.519 (1.98 / 16.23 KEEP)
 Loopring sell order: 5778.416 KEEP > 3391.93 USDT @$0.5870
 Loopring sell order: 5778.416 KEEP > 3363.04 USDT @$0.5820 (filled: 13.730 - 7.99 USDT)
--Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55 (Filled: 2399.857 - +1269.93 USDT | Fill PCTG: 41%)
--Loopring sell order: 5771.551 KEEP > 3232.07 USDT @$0.56
+Loopring sell order: 5771.551 KEEP > 3174.35 USDT @$0.55 (Filled: 2399.857 - +1269.93 USDT | Fill PCTG: 41%)
 Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
 Loopring buy order: 7.99 USDT > 14.527 KEEP @$0.55
 ========================================================================================================
@@ -136,15 +135,36 @@ Not just to wait. My first test on Loopring, which I'm yet conducing: see if it 
 I don't consider grants as earning; exchange is earning. So the cold bear status not only represents that I don't have liquid earnings, but also that I don't have now exchange earnings; but yes, will consider the token grant as earning.
 
 UPDATE 11/07/20: my plan about Loopring was right. Received ~$40 (~200 BRL) in a trade, and going to buy cheaper at MXC.co. The problem is that I'll have a few of loss by selling on MXC as I need ether for withdraw fees.
+
+UPDATE 12/07/20: bear has been more than 30% defrost
 ========================================================================================================
 Loopring withdraw 41.99 USDT (~$3 of fees)
--Loopring sell order: 29.024 KEEP > 15.96 USDT @$0.55
 MXC.co deposit: Argent > 41.99 USDT https://cn.etherscan.com/tx/0x0694dc7fb95b8ec2830fad7832332e2ae1d4242df01528b49d45b673cdebc3fc
 MXC.co buy order: 5.453208 USDT > 5.34 DAI @$1.0212
 MXC.co sell order: 9.73 DAI > 9.910005 USDT @$1.0185
 MXC.co buy order: 46.32705 USDT > 93.59 KEEP @$0.495
 MXC.co sell order: 119.79 KEEP > 66.1240 USDT @$0.5520
 Loopring buy order: 19.99 USDT > 0.0842 ETH @$237.45
-Loopring withdraw 0.0841 ETH
+Loopring withdraw 0.0841 ETH to Argent
+Loopring withdraw 1249.94 USDT to Argent
 MXC.co deposit 1249.94 USDT https://cn.etherscan.com/tx/0xfabf8e6b5e5c807e102cf4144a4397c2b8bb2f569d0c13fe43a7fefe07f805ba
 -MXC.co buy order: 1313.2959 USDT > 2575.09 KEEP @$0.51
+=============
+KEEP Market Status (good, with available amount to sell)
+0.5525 10.14%
+=============
+Loopring withdraw 9172.260 KEEP
+=============
+KEEP Market Status (good, with available amount to buy)
+0.5242 4.50%
+=============
+MXC.co deposit 9172.26 KEEP https://cn.etherscan.com/tx/0xfbe756d2c53ea26146057bef131d945f07f9f5c3ea27be91dc3e40f5d10badb8
+=============
+KEEP Market Status (good, with available amount to buy)
+0.5220 4.06%
+=============
+-MXC.co sell order: 9172.26 KEEP > 9172.26 KEEP @$0.56
+=============
+KEEP Market Status (good, with available amount to sell)
+0.5415 7.95%
+=============

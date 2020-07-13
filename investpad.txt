@@ -204,4 +204,16 @@ KEEP Market Status
 Total assets
 0.69899542 BTC ≈ 6500.95 USD
 ========================================================
--MXC.co buy order: 6487.9447 USDT > 12357.99 KEEP @$0.5250
+MXC.co withdraw 3241.97235 USDT to Argent
+1inch exchange USDT to BZRX
+MXC.co deposit 19698.195609573322 BZRX https://cn.etherscan.com/tx/0x42fa05bc2f381ce95dd50162e29ae43f30a7264ce6001b803ef8473fef647a34
+========================================================
+Total assets
+0.70746616 BTC ≈ 6562.33 USD
+========================================================
+-MXC.co buy order: 3250.4612 USDT > 21342.49 BZRX @$0.1523
+-MXC.co sell order: 19698.19 BZRX > 9849.0950 USDT @$0.50
+=============
+BZRX Market Status
+0.1661 10.73%
+=============

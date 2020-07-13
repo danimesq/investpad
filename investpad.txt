@@ -168,7 +168,15 @@ KEEP Market Status (good, with available amount to sell)
 =============
 MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250
 =============
-KEEP Market Status (good, with available amount to sell)
+KEEP Market Status
 0.5074 1.15%
 =============
--MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580
+-MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580 (5384.95 / 11673.78 KEEP)
+========================================================
+Total assets
+0.67168393 BTC ≈ 6234.10 USD
+========================================================
+Total assets
+0.69677386 BTC ≈ 6452.62 USD (target to consider the bear fully defrost: 7065.13 USD)
+========================================================
+-MXC.co buy order: 2992.7992 USDT > 5700.57 KEEP @$0.5250

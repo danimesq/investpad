@@ -136,7 +136,7 @@ I don't consider grants as earning; exchange is earning. So the cold bear status
 
 UPDATE 11/07/20: my plan about Loopring was right. Received ~$40 (~200 BRL) in a trade, and going to buy cheaper at MXC.co. The problem is that I'll have a few of loss by selling on MXC as I need ether for withdraw fees.
 
-UPDATE 12/07/20: bear has been more than 30% defrost
+UPDATE 12/07/20: thanks to a huge Loopring sell, the bear has been more than 30% defrost
 
 UPDATE 13/07/20: bear has been more than 50% defrost
 ========================================================================================================
@@ -173,7 +173,7 @@ MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250
 KEEP Market Status
 0.5074 1.15%
 =============
--MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580 (filled: 9695.49 / 11673.78 KEEP)
+MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580 (filled: 9695.49 / 11673.78 KEEP)
 ========================================================
 Total assets
 0.67168393 BTC ≈ 6234.10 USD
@@ -181,8 +181,27 @@ Total assets
 Total assets
 0.69677386 BTC ≈ 6452.62 USD (target to consider the bear fully defrost: 7065.13 USD)
 ========================================================
--MXC.co buy order: 5388.4687 USDT > 10263.75 KEEP @$0.5250
 =============
 KEEP Market Status (irrelevant; can both sell and buy)
 0.5496 9.56%
 =============
+=============
+KEEP Market Status (irrelevant; can both sell and buy)
+0.5535 10.34%
+=============
+========================================================
+Total assets
+0.69934537 BTC ≈ 6487.13 USD
+========================================================
+Total assets
+0.69960141 BTC ≈ 6496.03 USD
+========================================================
+=============
+KEEP Market Status
+0.5752 0.00%
+=============
+========================================================
+Total assets
+0.69899542 BTC ≈ 6500.95 USD
+========================================================
+-MXC.co buy order: 6487.9447 USDT > 12357.99 KEEP @$0.5250

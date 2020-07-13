@@ -137,6 +137,8 @@ I don't consider grants as earning; exchange is earning. So the cold bear status
 UPDATE 11/07/20: my plan about Loopring was right. Received ~$40 (~200 BRL) in a trade, and going to buy cheaper at MXC.co. The problem is that I'll have a few of loss by selling on MXC as I need ether for withdraw fees.
 
 UPDATE 12/07/20: bear has been more than 30% defrost
+
+UPDATE 13/07/20: bear has been more than 50% defrost
 ========================================================================================================
 Loopring withdraw 41.99 USDT (~$3 of fees)
 MXC.co deposit: Argent > 41.99 USDT https://cn.etherscan.com/tx/0x0694dc7fb95b8ec2830fad7832332e2ae1d4242df01528b49d45b673cdebc3fc
@@ -171,7 +173,7 @@ MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250
 KEEP Market Status
 0.5074 1.15%
 =============
--MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580 (5384.95 / 11673.78 KEEP)
+-MXC.co sell order: 11673.78 KEEP > 6513.9692 USDT @$0.5580 (filled: 9695.49 / 11673.78 KEEP)
 ========================================================
 Total assets
 0.67168393 BTC ≈ 6234.10 USD
@@ -179,4 +181,8 @@ Total assets
 Total assets
 0.69677386 BTC ≈ 6452.62 USD (target to consider the bear fully defrost: 7065.13 USD)
 ========================================================
--MXC.co buy order: 2992.7992 USDT > 5700.57 KEEP @$0.5250
+-MXC.co buy order: 5388.4687 USDT > 10263.75 KEEP @$0.5250
+=============
+KEEP Market Status (irrelevant; can both sell and buy)
+0.5496 9.56%
+=============

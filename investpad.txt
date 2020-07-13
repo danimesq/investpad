@@ -148,7 +148,6 @@ Loopring buy order: 19.99 USDT > 0.0842 ETH @$237.45
 Loopring withdraw 0.0841 ETH to Argent
 Loopring withdraw 1249.94 USDT to Argent
 MXC.co deposit 1249.94 USDT https://cn.etherscan.com/tx/0xfabf8e6b5e5c807e102cf4144a4397c2b8bb2f569d0c13fe43a7fefe07f805ba
--MXC.co buy order: 1313.2959 USDT > 2575.09 KEEP @$0.51
 =============
 KEEP Market Status (good, with available amount to sell)
 0.5525 10.14%
@@ -163,8 +162,9 @@ MXC.co deposit 9172.26 KEEP https://cn.etherscan.com/tx/0xfbe756d2c53ea26146057b
 KEEP Market Status (good, with available amount to buy)
 0.5220 4.06%
 =============
--MXC.co sell order: 9172.26 KEEP > 9172.26 KEEP @$0.56
 =============
 KEEP Market Status (good, with available amount to sell)
 0.5415 7.95%
 =============
+-MXC.co sell order: 9172.26 KEEP > 5118.1210 USDT @$0.5580
+-MXC.co buy order: 1313.2980 USDT > 2501.52 KEEP @$0.5250

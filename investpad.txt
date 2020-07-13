@@ -139,6 +139,8 @@ UPDATE 11/07/20: my plan about Loopring was right. Received ~$40 (~200 BRL) in a
 UPDATE 12/07/20: thanks to a huge Loopring sell, the bear has been more than 30% defrost
 
 UPDATE 13/07/20: bear has been more than 50% defrost
+
+UPDATE 13/07/20: bear has been fully defrost <3
 ========================================================================================================
 Loopring withdraw 41.99 USDT (~$3 of fees)
 MXC.co deposit: Argent > 41.99 USDT https://cn.etherscan.com/tx/0x0694dc7fb95b8ec2830fad7832332e2ae1d4242df01528b49d45b673cdebc3fc
@@ -205,7 +207,7 @@ Total assets
 0.69899542 BTC ≈ 6500.95 USD
 ========================================================
 MXC.co withdraw 3241.97235 USDT to Argent
-1inch exchange USDT to BZRX
+1inch exchange 3,241.93993 USDT to 19,698.195609573321080832 BZRX https://etherscan.io/tx/0xea5a26b85fb5c4efb3af85482dbf242618a35975c4c2611e77ba1107b9d42127
 MXC.co deposit 19698.195609573322 BZRX https://cn.etherscan.com/tx/0x42fa05bc2f381ce95dd50162e29ae43f30a7264ce6001b803ef8473fef647a34
 ========================================================
 Total assets
@@ -217,3 +219,21 @@ Total assets
 BZRX Market Status
 0.1661 10.73%
 =============
+=============
+BZRX Market Status
+0.1644 9.59%
+=============
+=============
+BZRX Market Status (irrelevant; can both sell and buy; good for buy)
+0.1603 6.86%
+=============
+MXC.co deposit 500 KEEP from MetaMask https://etherscan.io/tx/0xc26068dd7607295ce74cb91a32d88e037db49e0a33b844c40dc3429843d7d37d
+=============
+BZRX Market Status
+0.1732 15.46%
+=============
+========================================================
+Total assets
+0.74990246 BTC ≈ 6927.23 USD
+========================================================
+-MXC.co sell order: 500.00 KEEP > 290.6500 USDT @$0.5813

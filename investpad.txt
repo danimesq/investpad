@@ -213,7 +213,6 @@ MXC.co deposit 19698.195609573322 BZRX https://cn.etherscan.com/tx/0x42fa05bc2f3
 Total assets
 0.70746616 BTC ≈ 6562.33 USD
 ========================================================
--MXC.co sell order: 19698.19 BZRX > 9849.0950 USDT @$0.50
 =============
 BZRX Market Status
 0.1661 10.73%
@@ -245,8 +244,6 @@ BZRX Market Status
 Total assets
 0.80253391 BTC ≈ 7410.66 USD
 ========================================================
--MXC.co sell order: 13.63563 ETH > 3319.32 USDT @$243.43
-========================================================
 Total assets
 0.81110371 BTC ≈ 7482.02 USD
 ========================================================
@@ -254,4 +251,11 @@ Total assets
 BZRX Market Status
 0.2011 34.06%
 =============
--MXC.co buy order: 289.5025 USDT > 1900.87 BZRX @$0.1523
+MXC.co buy order: 289.5025 USDT > 1900.87 BZRX @$0.1523
+-MXC.co sell order: 21599.06 BZRX > 4343.5709 USDT @$0.2011
+MXC.co sell order: 13.63563 ETH > 3266.9605917 USDT @$239.59
+-MXC.co buy order: 3253.9062 USDT > 21365.11 BZRX @$0.1523
+=============
+BZRX Market Status
+0.1551 3.39%
+=============

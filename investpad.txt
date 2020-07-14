@@ -259,3 +259,19 @@ BZRX Market Status
 =============
 MXC.co sell order: 21599.06 BZRX > 3671.8402 USDT @$0.17
 -MXC.co buy order: 6911.0739 USDT > 45378.03 BZRX @$0.1523
+=============
+BZRX Market Status
+0.1650 10.00%
+=============
+=============
+BZRX Market Status
+0.1632 8.80%
+=============
+=============
+BZRX Market Status
+0.1659 10.59%
+=============
+=============
+BZRX Market Status
+0.1702 13.46%
+=============

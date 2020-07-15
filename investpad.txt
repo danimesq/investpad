@@ -395,6 +395,14 @@ BZRX Market Status
 PREVIEW FOR 15/07/20
 24H Max: 0.16 or 0.15
 24H Min: 0.12 or 0.11
-What it will mean: market will implode, allowing greater buys before a upcoming pump. A market with a timing, won't die for now.
+What it will mean: market will implode, allowing greater buys before a upcoming pump. A market with a listing countdown, won't die for now.
 =============
--MXC.co sell order: 44558.83 BZRX > 7664.1187 USDT @$0.1720
+=============
+BZRX Market Status
+0.1432 -10.78%
+=============
+=============
+BZRX Market Status
+0.1440 -10.28%
+=============
+-MXC.co sell order: 44558.83 BZRX > 7329.9275 USDT @$0.1645

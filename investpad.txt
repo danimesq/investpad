@@ -405,7 +405,7 @@ BZRX Market Status
 BZRX Market Status
 0.1440 -10.28%
 =============
--MXC.co sell order: 44558.83 BZRX > 7329.9275 USDT @$0.1645 (15486.48 / 44558.83 BZRX)
+MXC.co sell order: 44558.83 BZRX > 7329.9275 USDT @$0.1645
 =============
 BZRX Market Status
 0.1458 -9.15%
@@ -493,3 +493,26 @@ BZRX Market Status
 BZRX Market Status
 0.1603 -0.12%
 =============
+=============
+BZRX Market Status
+0.1612 +0.43%
+=============
+=============
+BZRX Market Status
+0.1634 +1.80%
+=============
+MXC.co withdraw 322.78482287 USDT (total 324.78482287) to Argent
+=============
+BZRX Market Status
+0.1702 +6.04%
+=============
+=============
+BZRX Market Status
+0.1881 +17.19%
+=============
+=============
+BZRX Market Status
+IMPORTANT
+24h max have reached 0.1900
+=============
+-MXC.co buy order: 6976.5286 USDT > 51677.99 BZRX @$0.1350

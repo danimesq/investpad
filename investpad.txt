@@ -517,5 +517,19 @@ IMPORTANT
 =============
 Exchange 26.702 USDT > 1.3231 testnetBTC (third purchase. the second have dbt of $0.24) https://blockstream.info/testnet/tx/da3aa03611caa18830fae28ac3be042d2b20222aa227692283895fb931d81166 https://blockstream.info/testnet/tx/03f06a944f02c7ff7bc15187a91603c392b8b2bb702112b87c348774048b020d https://etherscan.io/tx/0xd835b1ab64d3e256ba16bab2b7d5dc730946f4600511ed0437a04645e29fdaa9
 MXC.co withdraw 6 USDT (total 8) to Argent
--MXC.co buy order: 6968.5447 USDT > 51618.85 BZRX @$0.1350
+                                                                                                       -MXC.co buy order: 6968.5447 USDT > 51618.85 BZRX @$0.1350
 BitBol pay 298.799788 USDT to recharge Pagseguro card https://etherscan.io/tx/0x1accca65725878fbbbb7ac447101aab71c6a9e7926d56caa556a58a731095aa1
+=============
+BZRX Market Status
+0.1924 +4.39%
+=============
+=============
+BZRX 24h Market Status
+24H Max 0.1940
+24H Min 0.1711
+=============
+=============
+BZRX Market Status
+0.1732 -6.02%
+=============
+-MXC.co buy order: 6968.5452 USDT > 13452.79 KEEP @$0.5180 (filled: 2716.65 / 13452.79 KEEP)

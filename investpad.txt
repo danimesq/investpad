@@ -532,4 +532,10 @@ BZRX 24h Market Status
 BZRX Market Status
 0.1732 -6.02%
 =============
--MXC.co buy order: 6968.5452 USDT > 13452.79 KEEP @$0.5180 (filled: 2716.65 / 13452.79 KEEP)
+MXC.co buy order: 6968.5452 USDT > 13452.79 KEEP @$0.5180 (filled: 2716.65 / 13452.79 KEEP)
+-MXC.co buy order: 5561.3241 USDT > 10777.76 KEEP @$0.5160 (filled: 9680.96 / 10777.76 KEEP)
+=============
+KEEP Market Status
+0.5202 -1.34%
+=============
+-MXC.co sell order: 12397.61 KEEP > 7066.6377 USDT @$0.57

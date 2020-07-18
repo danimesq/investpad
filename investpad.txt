@@ -538,10 +538,8 @@ MXC.co buy order: 5561.3241 USDT > 10777.76 KEEP @$0.5160
 KEEP Market Status
 0.5202 -1.34%
 =============
--MXC.co sell order: 13494.41 KEEP > 7691.8137 USDT @$0.57
 MXC.co withdraw 13494.41 KEEP (total 13493.91) to Argent
 Loopring deposit: 13493.91 KEEP https://etherscan.io/tx/0xa4069910a7075bdc6c480668a2bb8492f5a5720d6e763e7d525b86cf385a81ad
--Loopring sell order: 6746.959 KEEP > 4048.18 USDT @$0.60
 -Loopring sell order: 6746.960 KEEP > 3845.77 USDT @$0.57
 =============
 KEEP Market Status at MXC.co
@@ -557,3 +555,6 @@ BZRX Market Status at MXC.co
 0.2993 +24.96%
 (bad, but can adapt)
 =============
+-Loopring sell order: 3373.481 KEEP > 959.75 USDT @$0.5690
+-Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
+-Loopring sell order: 1686.739 KEEP > 1821.68 USDT @$0.54

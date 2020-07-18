@@ -539,3 +539,6 @@ KEEP Market Status
 0.5202 -1.34%
 =============
 -MXC.co sell order: 13494.41 KEEP > 7691.8137 USDT @$0.57
+MXC.co withdraw 13494.41 KEEP (total 13493.91) to Argent
+Loopring deposit: 13493.91 KEEP https://etherscan.io/tx/0xa4069910a7075bdc6c480668a2bb8492f5a5720d6e763e7d525b86cf385a81ad
+-Loopring sell order: 13493.919 KEEP > 8096.35 USDT @$0.60

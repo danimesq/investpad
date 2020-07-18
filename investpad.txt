@@ -555,6 +555,6 @@ BZRX Market Status at MXC.co
 0.2993 +24.96%
 (bad, but can adapt)
 =============
--Loopring sell order: 3373.481 KEEP > 959.75 USDT @$0.5690
+-Loopring sell order: 1686.739 KEEP > 959.75 USDT @$0.5690
 -Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
--Loopring sell order: 1686.739 KEEP > 1821.68 USDT @$0.54
+-Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54

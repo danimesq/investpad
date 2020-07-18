@@ -558,3 +558,37 @@ BZRX Market Status at MXC.co
 -Loopring sell order: 1686.739 KEEP > 959.75 USDT @$0.5690
 -Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
 -Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54
+=============
+KEEP Market Status at MXC.co
+0.4563 -12.11%
+=============
+=============
+BZRX Market Status at MXC.co
+0.3148 +31.44%
+BZRX have exited the "Assesment" status, and now in the "Innovation" tab.
+=============
+========================================================================================================
+STATUS: COLD BEAR
+- How it happened
+Underestimated BZRX and thought the market was imploding. The best thing I could do was to wait instead of wanting a daily profit, and to sell BZRX at $0.35 and buy KEEP at $0.44. This 2nd cold bear need to be didatic for learning how to be a better trader.
+
+- What was changed
+Since day 16 without daily earnings. No capital loss; right after exiting the cold bear status, it will have a ~$200 profit by selling KEEP tokens.
+
+- What it means
+Since day 16 without liquid earnings.
+What is saving these days is that I'll be granted 5,000 KEEP for my works, which means $3K if its sell target is at $0.61. These KEEP will be granted in a date too close (can be first or after) to the stakedrop. It is good. My prevision is of 9 days without liquid earnings. These $3K, if considered and divised by these days without liquid earning, means a solid earning of $150. For who was the whole life called a "bum", receiving $3000 in a month is not bad, also considering my country's currency have inflation and, much thankfully, that I've earned more than that on this month.
+It also means that all these days, till now to tomorrow, I'm having daily earnings; but in this phase, not liquid to use now.
+
+- ToDo recovery plan
+Even knowing I'm earning $150 per day, which is much more than the monthly brazillian version of stimulus check, I need liquid earnings.
+Same time, I shouldn't lose capital, being desperate for liquid earnings; I shouldn't do the same mistake I did in 2016. The recovery plan is just wait. News will be shared here, all tracked by git and the Ethereum blockchain. This hard cap to day 28 isn't overexhagerated, as for sure I'll be granted my tokens and, it will reach its $0.61 which is my sell target.
+
+- Guarantees
+      - I have 1,550 BRL in my card, which is enough for helping in our living expenses
+      - Till day 28 I will be granted with my work tokens (yes, KEEP isn't a security nor a utility token, but technically a work token)
+	  - I'm having liquid earnings since the start of this month till day 8, and all over this month having solid earnings
+	  - She have enough finance to buy our wear and to save to eat and for house rent till I resume my liquid earning
+
+I don't consider grants as earning; exchange is earning. So the cold bear status not only represents that I don't have liquid earnings, but also that I don't have now exchange earnings; but yes, will consider the token grant as earning.
+========================================================================================================

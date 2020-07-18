@@ -552,3 +552,8 @@ KEEP Market Status at Loopring
 Last Price: 0.6195 USDT (0.6189 USD) 24h Change: -1.43% 24h Volume: 10293.70 USDT High: 0.6289 USDT Low: 0.6193 USDT
 (without trades since the hour 18)
 =============
+=============
+BZRX Market Status at MXC.co
+0.2993 +24.96%
+(bad, but can adapt)
+=============

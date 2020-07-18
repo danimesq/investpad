@@ -557,7 +557,7 @@ BZRX Market Status at MXC.co
 =============
 -Loopring sell order: 1686.739 KEEP > 959.75 USDT @$0.5690
 -Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
--Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54
+-Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54 (Filled: 170.000 - +91.80 USDT | Fill PCTG: 5%)
 =============
 KEEP Market Status at MXC.co
 0.4563 -12.11%
@@ -592,3 +592,6 @@ Same time, I shouldn't lose capital, being desperate for liquid earnings; I shou
 
 I don't consider grants as earning; exchange is earning. So the cold bear status not only represents that I don't have liquid earnings, but also that I don't have now exchange earnings; but yes, will consider the token grant as earning.
 ========================================================================================================
+Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
+MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
+-MXC.co buy order: 101.1824 USDT > 221.94 KEEP @$0.4559 (filled: 12.00 / 221.94 KEEP)

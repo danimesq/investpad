@@ -594,7 +594,12 @@ UPDATE 20/07/2020:
 EMERGENCY DEFROST CONSIDERABLE:
 Loopring KEEP token balance: 13493.919
 sell all @0.4590 = $6193.708821 - from $6968.5452 (7329.9275 USDT before a personal withdrawal for recharge card and pay for testBTC), which is a capital loss of $774.836379 - 4.128,91 BRL (!)
-Have 6 days to recover from cold bear (full defrost), with KEEP reaching 0.45, 0.46 and 0.47, and better if it reaches from 0.51 to 0.52; which is, by selling all orders on Loopring, will grow to $7463.11 (profit of $494.5648, which is ~$100 per day since day 16)
+Have 6 days to recover from cold bear (full defrost), with need for KEEP reaching 0.45, 0.46 and 0.47, and better if it reaches from 0.51 to 0.52; which is, by selling all orders on Loopring, will grow to $7463.11 (profit of $494.5648, which is ~$100 per day since day 16)
+
+UPDATE 20/07/2020:
+Had a insane plan; withdrew all KEEP tokens from Loopring.
+
+
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
@@ -642,3 +647,7 @@ KEEP Market Status at MXC.co
 
 1MXC.co buy order: 101.6870025 USDT > 0.42645 ETH @$238.45
 MXO.co withdraw 0.4264589 ETH to Argent https://cn.etherscan.com/tx/0x34386f06cadf63bab31b97030f2f8ca2c67cbd4143b894f319fe02ac9c1a185a
+Loopring withdraw 13323.919 KEEP to Argent (fee: 0.0020 ETH) https://etherscan.io/tx/0xb27b657f4551ab83d81e1f759a212ec61798094dca4589353b466b5875db7bf3
+
+MXC.co sell order: X KEEP > Y USDT @$Z
+MXC.co buy order: X USDT > Y ETH @$Z

@@ -515,7 +515,7 @@ BZRX Market Status
 IMPORTANT
 24h max have reached 0.1900
 =============
-Exchange 26.702 USDT > 1.3231 testnetBTC (third purchase. the second have dbt of $0.24) https://blockstream.info/testnet/tx/da3aa03611caa18830fae28ac3be042d2b20222aa227692283895fb931d81166 https://blockstream.info/testnet/tx/03f06a944f02c7ff7bc15187a91603c392b8b2bb702112b87c348774048b020d https://etherscan.io/tx/0xd835b1ab64d3e256ba16bab2b7d5dc730946f4600511ed0437a04645e29fdaa9
+Exchange 26.702 USDT > 1.3231 testnetBTC (third purchase. the second have debt of $0.24) https://blockstream.info/testnet/tx/da3aa03611caa18830fae28ac3be042d2b20222aa227692283895fb931d81166 https://blockstream.info/testnet/tx/03f06a944f02c7ff7bc15187a91603c392b8b2bb702112b87c348774048b020d https://etherscan.io/tx/0xd835b1ab64d3e256ba16bab2b7d5dc730946f4600511ed0437a04645e29fdaa9
 MXC.co withdraw 6 USDT (total 8) to Argent
                                                                                                   -MXC.co buy order: 7691.8137 USDT >  BZRX @$0.1350 / 19
 BitBol pay 298.799788 USDT (1550+ BRL) to recharge Pagseguro card https://etherscan.io/tx/0x1accca65725878fbbbb7ac447101aab71c6a9e7926d56caa556a58a731095aa1
@@ -557,7 +557,7 @@ BZRX Market Status at MXC.co
 =============
 -Loopring sell order: 1686.739 KEEP > 959.75 USDT @$0.5690
 -Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
--Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54 (Filled: 170.000 - +91.80 USDT | Fill PCTG: 5%)
+-1Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54 (Filled: 170.000 - +91.80 USDT | Fill PCTG: 5%)
 =============
 KEEP Market Status at MXC.co
 0.4563 -12.11%
@@ -587,11 +587,58 @@ Same time, I shouldn't lose capital, being desperate for liquid earnings; I shou
 - Guarantees
       - I have 1,550 BRL in my card, which is enough for helping in our living expenses
       - Till day 28 I will be granted with my work tokens (yes, KEEP isn't a security nor a utility token, but technically a work token)
-	  - I'm having liquid earnings since the start of this month till day 8, and all over this month having solid earnings
-	  - She have enough finance to buy our wear and to save to eat and for house rent till I resume my liquid earning
 
 I don't consider grants as earning; exchange is earning. So the cold bear status not only represents that I don't have liquid earnings, but also that I don't have now exchange earnings; but yes, will consider the token grant as earning.
+
+UPDATE 20/07/2020:
+EMERGENCY DEFROST CONSIDERABLE:
+Loopring KEEP token balance: 13493.919
+sell all @0.4590 = $6193.708821 - from $6968.5452 (7329.9275 USDT before a personal withdrawal for recharge card and pay for testBTC), which is a capital loss of $774.836379 - 4.128,91 BRL (!)
+Have 6 days to recover from cold bear (full defrost), with KEEP reaching 0.45, 0.46 and 0.47, and better if it reaches from 0.51 to 0.52; which is, by selling all orders on Loopring, will grow to $7463.11 (profit of $494.5648, which is ~$100 per day since day 16)
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
--MXC.co buy order: 101.1824 USDT > 221.94 KEEP @$0.4559 (filled: 12.00 / 221.94 KEEP)
+1MXC.co buy order: 101.1824 USDT > 221.94 KEEP @$0.4559
+=============
+KEEP Market Status at MXC.co
+0.3823 -16.35%
+=============
+=============
+KEEP Market Status at MXC.co
+0.3686 -19.34%
+=============
+
+19/07/2020:
+
+=============
+KEEP Market Status at MXC.co
+0.4136 +0.62%
+=============
+=============
+KEEP Market Status at MXC.co
+0.4393 +6.88%
+=============
+=============
+KEEP Market Status at MXC.co
+0.4399 +7.03%
+=============
+=============
+KEEP Market Status at MXC.co
+0.4401 +7.08%
+24H Max: 0.4597
+24H Min: 0.3536
+=============
+1MXC.co sell order: 221.94 KEEP > 102.0924 USDT @$0.46
+=============
+KEEP Market Status at MXC.co
+0.4380 +6.57%
+=============
+=============
+KEEP Market Status at MXC.co
+0.4539 +10.43%
+=============
+
+20/07/2020:
+
+1MXC.co buy order: 101.6870025 USDT > 0.42645 ETH @$238.45
+MXO.co withdraw 0.4264589 ETH to Argent https://cn.etherscan.com/tx/0x34386f06cadf63bab31b97030f2f8ca2c67cbd4143b894f319fe02ac9c1a185a

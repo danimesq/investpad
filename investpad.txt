@@ -599,6 +599,9 @@ Had a insane plan; withdrew all KEEP tokens from Loopring.
 UPDATE 21/07/2020:
 Decision to wait for a bull run coming in the end of this month.
 
+UPDATE 21/07/2020:
+Changed my idea and will flatten my capital in order to return to daily activity.
+
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
@@ -659,4 +662,6 @@ KEEP Market Status at MXC.co
 KEEP Market Status at MXC.co
 0.4625 +3.58%
 =============
--MXC.co sell order: 13323.91 KEEP > 6162.3083 USDT @$0.4625
+-MXC.co sell order: 4441.30 KEEP > 2054.1012 USDT @$0.4625
+-MXC.co sell order: 4441.30 KEEP > 2074.0871 USDT @$0.4670
+-MXC.co sell order: 4441.31 KEEP > 2095.4100 USDT @$0.4718

@@ -540,7 +540,6 @@ KEEP Market Status
 =============
 MXC.co withdraw 13494.41 KEEP (total 13493.91) to Argent
 Loopring deposit: 13493.91 KEEP https://etherscan.io/tx/0xa4069910a7075bdc6c480668a2bb8492f5a5720d6e763e7d525b86cf385a81ad
--Loopring sell order: 6746.960 KEEP > 3845.77 USDT @$0.57
 =============
 KEEP Market Status at MXC.co
 0.4972 -4.23%
@@ -555,9 +554,7 @@ BZRX Market Status at MXC.co
 0.2993 +24.96%
 (bad, but can adapt)
 =============
--Loopring sell order: 1686.739 KEEP > 959.75 USDT @$0.5690
--Loopring sell order: 1686.739 KEEP > 927.71 USDT @$0.55
--1Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54 (Filled: 170.000 - +91.80 USDT | Fill PCTG: 5%)
+Loopring sell order: 3373.481 KEEP > 1821.68 USDT @$0.54 (Filled: 170.000 - +91.80 USDT | Fill PCTG: 5%)
 =============
 KEEP Market Status at MXC.co
 0.4563 -12.11%
@@ -599,11 +596,13 @@ Have 6 days to recover from cold bear (full defrost), with need for KEEP reachin
 UPDATE 20/07/2020:
 Had a insane plan; withdrew all KEEP tokens from Loopring.
 
+UPDATE 21/07/2020:
+Decision to wait for a bull run coming in the end of this month.
 
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
-1MXC.co buy order: 101.1824 USDT > 221.94 KEEP @$0.4559
+MXC.co buy order: 101.1824 USDT > 221.94 KEEP @$0.4559
 =============
 KEEP Market Status at MXC.co
 0.3823 -16.35%
@@ -645,9 +644,19 @@ KEEP Market Status at MXC.co
 
 20/07/2020:
 
-1MXC.co buy order: 101.6870025 USDT > 0.42645 ETH @$238.45
+MXC.co buy order: 101.6870025 USDT > 0.42645 ETH @$238.45
 MXO.co withdraw 0.4264589 ETH to Argent https://cn.etherscan.com/tx/0x34386f06cadf63bab31b97030f2f8ca2c67cbd4143b894f319fe02ac9c1a185a
 Loopring withdraw 13323.919 KEEP to Argent (fee: 0.0020 ETH) https://etherscan.io/tx/0xb27b657f4551ab83d81e1f759a212ec61798094dca4589353b466b5875db7bf3
 
-MXC.co sell order: X KEEP > Y USDT @$Z
-MXC.co buy order: X USDT > Y ETH @$Z
+21/07/2020:
+
+MXC.co deposit 13323.91 KEEP from Argent https://cn.etherscan.com/tx/0xa130b348bdb1848d9928a64e51055860e4a27266d8b04c296574dc6fec868b79
+=============
+KEEP Market Status at MXC.co
+0.4192 -5.07%
+=============
+=============
+KEEP Market Status at MXC.co
+0.4625 +3.58%
+=============
+-MXC.co sell order: 13323.91 KEEP > 6162.3083 USDT @$0.4625

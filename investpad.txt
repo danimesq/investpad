@@ -664,9 +664,11 @@ KEEP Market Status at MXC.co
 decreased to 0.44XX after my sell order
 =============
 ----------------------------------------------------------
--MXC.co sell order: 4441.30 KEEP > 2054.1012 USDT @$0.4625 (filled: 670.90 / 4441.30 KEEP - strategy have worked)
+MXC.co sell order: 4441.30 KEEP > 2054.1012 USDT @$0.4625 (filled: 670.90 / 4441.30 KEEP - strategy have worked)
 -MXC.co sell order: 4441.30 KEEP > 2074.0871 USDT @$0.4670
 -MXC.co sell order: 4441.31 KEEP > 2095.4100 USDT @$0.4718
 TOTAL: 6223.5983 USDT in 3 orders
 ----------------------------------------------------------
--MXC.co buy order: 309.0601 USDT > 714.59 KEEP @$0.4325
+MXC.co buy order: 309.0604 USDT > 691.72 KEEP @$0.4468
+MXC.co sell order: 4462.12 KEEP > 2063.7305 USDT @$0.4625 (filled: 158.45 / 4462.12 KEEP)
+-MXC.co buy order: 72.9882 USDT > 169.74 KEEP @$0.43

@@ -1,0 +1,8 @@
+MXC.co buy order: 9730 USDT > Y ETH @$Z
+MXC.co withdraw X ETH to Argent
+x
+MXC.co sell order: X  > Y USDT @$Z
+MXC.co buy order: X USDT > Y ETH @$Z
+991-973 = 18
+6x 18 = 108
+https://oasis.app/borrow

@@ -676,5 +676,10 @@ MXC.co buy order: 72.9879 USDT > 169.70 KEEP @$0.4301 (filled: 3.89 / 169.70 KEE
 MXC.co sell order: 13186.28 KEEP > 6098.6545 USDT @$0.4625 (filled: 6200.40 / 13186.28 KEEP)
 Move from MetaMask 5,000 KEEP to Argent https://etherscan.io/tx/0x8b884b5b7703139896d22f4b582e43fc9dd887d04a864e440be4adfcb4f3609c (Playing For Keeps grant of June which is received in July)
 MXC.co deposit 5000 KEEP from Argent https://cn.etherscan.com/tx/0x5de47cfc09ef83e44789c52cf1a83c48db6a3e6f07832c0b27010762e269c5a1
--MXC.co buy order: 2927.5430 USDT > 6776.72 KEEP @$0.4320
 -MXC.co sell order: 11989.77 KEEP > 5545.2686 USDT @$0.4625
+========================================================
+Total assets
+0.89232847 BTC ≈ 8367.17 USD
+========================================================
+MXC.co buy order: 2927.54340 USDT > 23556.03 LRC @$0.12428
+-MXC.co sell order: 23556.03 LRC > 7066.80900 USDT @$0.30

@@ -605,6 +605,16 @@ Changed my idea and will flatten my capital in order to return to daily activity
 UPDATE 22/07/2020:
 BEAR HAS BEEN 50% DEFROST <3
 
+UPDATE 23/07/2020:
+Bear isn't anymore 50% defrost.
+Invested on Ethereum after presentially seeing a huge bull run. Invested all my USD into ETH ($8522.6788802), then its price have dropped; I'm happy because then I'd discovered that professional traders saw the same as me.
+
+UPDATE 24/07/2020:
+$8522.6788802 invested in ETH (271.9, 278.2, 277.96)
+$9404.935785302061 total cap if 300
+- $882.25 profit
+ETH have 8 days (till July 31) to reach @$300
+
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
@@ -676,10 +686,43 @@ MXC.co buy order: 72.9879 USDT > 169.70 KEEP @$0.4301 (filled: 3.89 / 169.70 KEE
 MXC.co sell order: 13186.28 KEEP > 6098.6545 USDT @$0.4625 (filled: 6200.40 / 13186.28 KEEP)
 Move from MetaMask 5,000 KEEP to Argent https://etherscan.io/tx/0x8b884b5b7703139896d22f4b582e43fc9dd887d04a864e440be4adfcb4f3609c (Playing For Keeps grant of June which is received in July)
 MXC.co deposit 5000 KEEP from Argent https://cn.etherscan.com/tx/0x5de47cfc09ef83e44789c52cf1a83c48db6a3e6f07832c0b27010762e269c5a1
--MXC.co sell order: 11989.77 KEEP > 5545.2686 USDT @$0.4625
+MXC.co sell order: 11989.77 KEEP > 5545.2686 USDT @$0.4625
 ========================================================
 Total assets
 0.89232847 BTC ≈ 8367.17 USD
 ========================================================
 MXC.co buy order: 2927.54340 USDT > 23556.03 LRC @$0.12428
--MXC.co sell order: 23556.03 LRC > 7066.80900 USDT @$0.30
+                                                                                                        MXC.co sell order: 23556.03 LRC > 7066.80900 USDT @$0.30
+                                                                                                          MXC.co buy order: 3856.9797 USDT > 14285.11 BZRX @$0.27
+========================================================
+Total assets
+0.89698015 BTC ≈ 8535.75 USD
+========================================================
+
+23/07/2020:
+
+MXC.co buy order: 5523.12145 USDT > 20.713 ETH @$266.65
+MXC.co sell order: 20.71300 ETH > 5565.37 USDT @$268.69
+MXC.co buy order: 5547.50 USDT > 20.73680 ETH @$267.52 (0.02250 / 20.73680 ETH)
+MXC.co buy order: 5541.487859 USDT > 20.38061 ETH @$271.9
+========================================================
+Total assets
+0.89738775 BTC ≈ 8541.52 USD
+========================================================
+MXC.co withdraw 20.40311 ETH to Argent https://cn.etherscan.com/tx/0x3ce38a3a48798b31ecc42d7c61722e575d85b73c23cc777c21281b690350225b
+MXC.co sell order: 23556.03 LRC > 2991.14468 USDT @$0.12698
+MXC.co buy order: 2062.708336 USDT > 7.41448 ETH @$278.2
+MXC.co buy order: 918.4826852 USDT > 3.30437 ETH @$277.96
+                                                                                                           MXC.co sell order: 10.71885 ETH > 3215.65 USDT @$300
+
+24/07/2020:
+
+MXC.co withdraw 10.71385 ETH (total 10.71885) to MetaMask https://cn.etherscan.com/tx/0xf3d80e0b012e2925622c6eef1b4dfd3aa6fef427c1e1af12213302e1583c7b7f
+UniSwap 10.470080725607707238 ETH > 1.193905851823774477 YFI (invested $2,879.69 - YFI price target: $4816 or $5000) https://etherscan.io/tx/0x3657959dac57c0ea8c4bb168b0cb1bf61a1cc0185381f0f4a6e338ca855c6887
+Poloniex deposit 1.193905851823774477 YFI https://etherscan.io/tx/0x35e6a6663138342ad9391fdd9384e0d622352317d64d1cd1d7df26a17f126ea6
+Poloniex sell order: 1.19390585 YFI > 3018.87622071 USDT @$2528.57142857
+Poloniex withdraw 10.88479090 ETH (total 10.8947909) to MetaMask https://etherscan.io/tx/0xf3b77dc614ae31862f4c784df9eebcb39831ff1c5435f3621288241dfcfae576
+UniSwap 11.146481112 ETH > 1.275567878533634061 YFI (invested $3,096.38) https://etherscan.io/tx/0xe0089932346bf4d23cc171d33c26135c0a59bef87a89a6cb2ba10b154fa01a0d
+Poloniex deposit 1.275567878533634061 YFI https://etherscan.io/tx/0x471cafc7b01b93fb88958257d92f3053e56e36f2fc44878cad408abfbf7ee621
+Poloniex sell order: 1.27556787 YFI > 3227.25048949 USDT @$2530.05000000
+Poloniex withdraw  ETH (total ) to MetaMask 

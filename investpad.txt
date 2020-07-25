@@ -724,5 +724,8 @@ Poloniex sell order: 1.19390585 YFI > 3018.87622071 USDT @$2528.57142857
 Poloniex withdraw 10.88479090 ETH (total 10.8947909) to MetaMask https://etherscan.io/tx/0xf3b77dc614ae31862f4c784df9eebcb39831ff1c5435f3621288241dfcfae576
 UniSwap 11.146481112 ETH > 1.275567878533634061 YFI (invested $3,096.38) https://etherscan.io/tx/0xe0089932346bf4d23cc171d33c26135c0a59bef87a89a6cb2ba10b154fa01a0d
 Poloniex deposit 1.275567878533634061 YFI https://etherscan.io/tx/0x471cafc7b01b93fb88958257d92f3053e56e36f2fc44878cad408abfbf7ee621
--Poloniex sell order: 1.27556787 YFI > 3317.49691629 USDT @$2600.8
-Poloniex withdraw  ETH (total ) to MetaMask 
+Poloniex withdraw 1.27056787 YFI (total 1.27556787) to MetaMask https://etherscan.io/tx/0xc84debd9325421759841ca0522dcca609bda1a1c41c7df92fd846dcc71f44c29
+TomoDEX deposit 1.27056787 YFI https://etherscan.io/tx/0xc77ec8ed594a0d4f64c33328667aea3de0dabaeded3525ced815a097045e1c8d
+TomoDEX sell order: 1.270567 YFI > 3,189.12317 USDT @$2510 (filled: 76.37%)
+                                                                                                                               TomoDEX buy order:  USDT >  YFI @$
+TomoDEX withdraw 2432.26069100 USDT (total 2433.23069100) to MetaMask 

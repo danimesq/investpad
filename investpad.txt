@@ -615,6 +615,9 @@ $9404.935785302061 total cap if 300
 - $882.25 profit
 ETH have 8 days (till July 31) to reach @$300
 
+UPDATE 24/07/2020:
+Bought IFY. BEAR HAS BEEN FULLY DEFROST *-* <3 <3 <3 <3 <3 <3
+
 ========================================================================================================
 Loopring withdraw 91.80 USDT to Argent (fee: $3.70) https://etherscan.io/tx/0xa9070a545c10057ac7e8c187a6986844e46543c7a10b6dc2a710bf79d58df6ba
 MXC.co deposit 95.083034 USDT https://etherscan.io/tx/0x34a56ce5efc39d83fae7bf50f7c35043ec3ee61d02fbe60ffc56f752c327e299
@@ -713,13 +716,13 @@ MXC.co withdraw 20.40311 ETH to Argent https://cn.etherscan.com/tx/0x3ce38a3a487
 MXC.co sell order: 23556.03 LRC > 2991.14468 USDT @$0.12698
 MXC.co buy order: 2062.708336 USDT > 7.41448 ETH @$278.2
 MXC.co buy order: 918.4826852 USDT > 3.30437 ETH @$277.96
-                                                                                                           MXC.co sell order: 10.71885 ETH > 3215.65 USDT @$300
+MXC.co deposit 20.630935951006873296 ETH from Argent https://etherscan.io/tx/0xf21dcb2029f5adeb9933b5d0e24c6fccfee722792429e15588e2317c34a6611c
 
 24/07/2020:
 
 MXC.co withdraw 10.71385 ETH (total 10.71885) to MetaMask https://cn.etherscan.com/tx/0xf3d80e0b012e2925622c6eef1b4dfd3aa6fef427c1e1af12213302e1583c7b7f
 UniSwap 10.470080725607707238 ETH > 1.193905851823774477 YFI (invested $2,879.69 - YFI price target: $4816 or $5000) https://etherscan.io/tx/0x3657959dac57c0ea8c4bb168b0cb1bf61a1cc0185381f0f4a6e338ca855c6887
-Poloniex deposit 1.193905851823774477 YFI https://etherscan.io/tx/0x35e6a6663138342ad9391fdd9384e0d622352317d64d1cd1d7df26a17f126ea6
+Poloniex deposit 1.193905851823774477 YFI from MetaMask https://etherscan.io/tx/0x35e6a6663138342ad9391fdd9384e0d622352317d64d1cd1d7df26a17f126ea6
 Poloniex sell order: 1.19390585 YFI > 3018.87622071 USDT @$2528.57142857
 Poloniex withdraw 10.88479090 ETH (total 10.8947909) to MetaMask https://etherscan.io/tx/0xf3b77dc614ae31862f4c784df9eebcb39831ff1c5435f3621288241dfcfae576
 UniSwap 11.146481112 ETH > 1.275567878533634061 YFI (invested $3,096.38) https://etherscan.io/tx/0xe0089932346bf4d23cc171d33c26135c0a59bef87a89a6cb2ba10b154fa01a0d
@@ -727,5 +730,96 @@ Poloniex deposit 1.275567878533634061 YFI https://etherscan.io/tx/0x471cafc7b01b
 Poloniex withdraw 1.27056787 YFI (total 1.27556787) to MetaMask https://etherscan.io/tx/0xc84debd9325421759841ca0522dcca609bda1a1c41c7df92fd846dcc71f44c29
 TomoDEX deposit 1.27056787 YFI https://etherscan.io/tx/0xc77ec8ed594a0d4f64c33328667aea3de0dabaeded3525ced815a097045e1c8d
 TomoDEX sell order: 1.270567 YFI > 3,189.12317 USDT @$2510 (filled: 76.37%)
-                                                                                                                               TomoDEX buy order:  USDT >  YFI @$
-TomoDEX withdraw 2432.26069100 USDT (total 2433.23069100) to MetaMask 
+TomoDEX buy order: 16 TOMO > 16.112 USDT @$1.007
+TomoDEX sell order: 0.300152 YFI > 922.95539 USDT @$3074.96
+TomoDEX withdraw 3344.97540900 USDT to MetaMask https://etherscan.io/tx/0xaa6eed27c3c487c43def96c0179f55f68fba01f8707931aed810fd44278f1080
+Poloniex deposit 3,345.00783 USDT from MetaMask https://etherscan.io/tx/0xfdf76c814494e531d658924af8e3c3a7c7c42bceb410a197d143885460a74690
+-------------------------------------------------------------------
+Poloniex buy: 4.90942693 USDT > 0.00147584 YFI @$3326.53061224
+Poloniex buy: 24.00970040 USDT > 0.00717363 YFI @$3346.93877551
+Poloniex buy: 67.34693877 USDT > 0.02000000 YFI @$3367.34693877
+Poloniex buy: 683.70161600 USDT > 0.20217532 YFI @$3381.72639470
+Poloniex buy: 67.75510204 USDT > 0.02000000 YFI @$3387.75510204
+Poloniex buy: 68.16326530 USDT > 0.02000000 YFI @$3408.16326530
+Poloniex buy: 68.57142857 USDT > 0.02000000 YFI @$3428.57142857
+Poloniex buy: 68.97959183 USDT > 0.02000000 YFI @$3448.97959183
+Poloniex buy: 352.86856915 USDT > 0.10227167 YFI @$3450.30612244
+Poloniex buy: 69.38775510 USDT > 0.02000000 YFI @$3469.38775510
+Poloniex buy: 124.56457200 USDT > 0.03584592 YFI @$3475.00000000
+Poloniex buy: 69.79591836 USDT > 0.02000000 YFI @$3489.79591836
+Poloniex buy: 85.33095496 USDT > 0.02435141 YFI @$3504.14842381
+Poloniex buy: 70.20408163 USDT > 0.02000000 YFI @$3510.20408163
+Poloniex buy: 154.65851762 USDT > 0.04387927 YFI @$3524.63743410
+Poloniex buy: 64.42253531 USDT > 0.01828542 YFI @$3523.16410100
+Poloniex buy: 1218.27507367 USDT > 0.34506057 YFI @$3530.61224489
+Poloniex buy: 83.05567323 USDT > 0.02437250 YFI @$3407.76174924
+
+Total 3346.00072087 USDT > 0.96368551 YFI in 18 trades
+-------------------------------------------------------------------
+========================================================
+Total assets (Poloniex)
+0.37671330 BTC $3611.68
+From day 23 > 24, started with $2981.1910212 and had a profit of $630.4889788
+
+------
+20.38061 ETH freeze at MXC.co till Monday/Tuesday
+~bought it with $5541.487859 at price $271.9
+its value is now going to $300, which will turn these 20.38061 ETH to worth 6114.183 - profit of $572.695141 ($114.5390282 per day, from 23 to 28)
+========================================================
+Poloniex withdraw 0.95868551 YFI (total 0.96368551) to MetaMask https://etherscan.io/tx/0x3bd145e7a1565624ec33832f4aa3cf697d4bb7c04cd6c18d460e04f5b065ade0
+Poloniex deposit 0.95868551 YFI from MetaMask https://etherscan.io/tx/0x5bd5604c35bfbaff49cf2c2991908a3dc3be09ff0cca6730f6c8dccaddce7a7e
+-------------------------------------------------------------------
+Poloniex sell order: 0.14888931 YFI > 426.66379222 USDT @$2869.23076923
+Poloniex sell order: 0.22415488 YFI > 642.34813866 USDT @$2869.23076922
+Poloniex sell order: 0.03053391 YFI > 87.49932302 USDT @$2869.23076922
+Poloniex sell order: 0.31100000 YFI > 891.21535575 USDT @$2869.23076922
+Poloniex sell order: 0.24410741 YFI > 699.52499114 USDT @$2869.23076922
+
+Total 0.95868551 YFI > 2747.25160079 USDT in 5 trades
+-------------------------------------------------------------------
+========================================================
+Total assets (Poloniex)
+0.28296691 BTC $2745,40
+========================================================
+-------------------------------------------------------------------
+Poloniex buy: 7.00000093 USDT > 0.02283962 ETH @$306.48500000
+Poloniex buy: 1.03515674 USDT > 0.00337773 ETH @$306.46521383
+Poloniex buy: 2.45589495 USDT > 0.00801310 ETH @$306.48500000
+Poloniex buy: 2.44731337 USDT > 0.00798510 ETH @$306.48500000
+Poloniex buy: 2734.30592750 USDT > 8.92150000 ETH @$306.48500000
+Poloniex buy: 0.00724837 USDT > 0.00002365 ETH @$306.48500000
+
+Total 2747.25154186 USDT > 8.9637392 ETH in 6 trades
+-------------------------------------------------------------------
+========================================================
+Total assets (Poloniex)
+0.28282498 BTC $2742,52
+========================================================
+Poloniex withdraw 8.94253456 ETH (total 8.95253456) to MetaMask https://etherscan.io/tx/0xd444ab6347b98ea78ed29f2b6141f8257b166c8e6566bfbc1feaa116dd9ed9c1
+-----------------
+Comments:
+YFI started to increase after I sold it. ETH started to decrease after I bought it.
+-----------------
+
+25/07/20:
+
+Loan received from brucethegoose.eth: 0.017 Ether ($5.52) after ran out of gas https://etherscan.io/tx/0xb90b5ad25a871bd6c92b72e12c5b0695f773c230322ecd2207a3035ebf4910d7
+
+26/07/20:
+
+UniSwap 8.904697293 ETH > 1.197585942760974327 YFI https://etherscan.io/tx/0xc4fe2ae437065806abcced8e4ade8578a7b14f1e6e007ebfc731f90db867e0ff
+UniSwap 1.197585942760974327 YFI > 11.601508644553354352 ETH https://etherscan.io/tx/0x695ed8c1dd983313c4f033e5a853200dc158c73b21af9e060bd1cf15429aed95
+UniSwap 11.530777457553354352 ETH > 1.327095842454010851 YFI https://etherscan.io/tx/0x8bd9b92f0d6d03f537f1fffb140482c0b2eda951b5fcc4387e9abb5ee158abe3
+UniSwap 1.327095842454010851 YFI > 11.788403842521831311 ETH https://etherscan.io/tx/0x7318bdf6e7db938f19b1ce5dd83301eb1455fc1e9268d0d6e2a03037e4f6827e
+UniSwap 11.766804173521831311 ETH > 1.330411261867402628 YFI https://etherscan.io/tx/0xe402c59dd957ea2f97eef2e3cc0e38338a7efb87814c79b4f0cefc1cd73b0ea5
+UniSwap 1.330411261867402628 YFI > 11.948169670904431772 ETH https://etherscan.io/tx/0x17a4402d302f687a66a954dbbd19de62778f2d212a486c0834bbfc70a63e2838
+UniSwap 12.009468784904431772 ETH > 1.272110234585198249 YFI @~$2850 https://etherscan.io/tx/0x1ff32ea2af49a910a3da649dbcfce6cc46a838f84edc16d7e46d0a3de8259e9a
+
+27/07/20:
+
+Exchange 0.0395 YFI > 6 testnetBTC    https://etherscan.io/tx/0xffb33e8bef89c5c6d1adecd3f0cbcfb488b07d39fefafa53edd7e45ca9c42fd5
+UniSwap 20.6003107651 ETH > 2.534063657275352577 YFI @$2620 https://etherscan.io/tx/0x6cb428bb9c87ed365f7b23951bfa179c29c5cf7473a61f15138ce11d8d2bd24f
+MXC.co withdraw 20.62593595 ETH (total 20.63093595) to MetaMask https://cn.etherscan.com/tx/0x5c5eab16c7c2001289c8f604579141721c6c598d3a15438d2e6d27416f605283
+other swap
+Poloniex deposit 3.766673891860550826 YFI from MetaMask https://etherscan.io/tx/0x9a800b474a21e2df423580edd98e644cdfb059b17ed273539f9d23ca58c4ed43
+Poloniex sell order: 3.76667389 YFI > 12053.356448 USDT @$3200

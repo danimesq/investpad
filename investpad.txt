@@ -828,7 +828,24 @@ Poloniex buy: 144.48207326 USDT > 0.05167607 YFI @$2795.91836734
 
 Total 402.46763999 USDT > 0.14394828 YFI in 2 trades
 -------------------------------------------------------------------
--Poloniex sell order: 3.78451371 YFI > 11353.54113 USDT @$3000
+
+========================================================
+Total assets (Poloniex)
+1.01247228 BTC $11052,22
+========================================================
+-Poloniex sell order: 2.40748071 YFI > 7222.44213000 USDT @$3000
+-------------------------------------------------------------------
+Poloniex buy: 3155.35388246 USDT > 9.93939696 ETH @$317.45928804
+Poloniex buy: 952.37786409 USDT > 3 ETH @$317.45928803
+
+Total 4107.73174655 USDT > 12.93939696 ETH in 2 trades
+-------------------------------------------------------------------
+Poloniex withdraw 12.91322272 ETH (total 12.92322272) to MetaMask https://etherscan.io/tx/0x26c172fd9dfa8793d76d58a74ad8da008073db1aa4bf24ba4585a98cbf29fe30
+-----------------
+Comments:
+It's very disgusting to trade on Poloniex. It have a lot of orders to register while on other exchanges it is just one simple.
+-----------------
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Preview:

@@ -822,4 +822,26 @@ UniSwap 20.6003107651 ETH > 2.534063657275352577 YFI @$2620 https://etherscan.io
 MXC.co withdraw 20.62593595 ETH (total 20.63093595) to MetaMask https://cn.etherscan.com/tx/0x5c5eab16c7c2001289c8f604579141721c6c598d3a15438d2e6d27416f605283
 other swap
 Poloniex deposit 3.766673891860550826 YFI from MetaMask https://etherscan.io/tx/0x9a800b474a21e2df423580edd98e644cdfb059b17ed273539f9d23ca58c4ed43
-Poloniex sell order: 3.76667389 YFI > 12053.356448 USDT @$3200
+-------------------------------------------------------------------
+Poloniex buy: 257.98556673 USDT > 0.09227221 YFI @$2795.91836734
+Poloniex buy: 144.48207326 USDT > 0.05167607 YFI @$2795.91836734
+
+Total 402.46763999 USDT > 0.14394828 YFI in 2 trades
+-------------------------------------------------------------------
+-Poloniex sell order: 3.78451371 YFI > 11353.54113 USDT @$3000
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Preview:
+>Poloniex buy order: 11353.54113 USDT > 4.93632224 YFI @$2300
+>Poloniex sell order: 4.93632224 YFI > 14808.96672 USDT @$3000
+>Poloniex buy order: 14808.96672 USDT > 6.43868119 YFI @$2300
+>Poloniex sell order: 6.43868119 YFI > 19316.04357 USDT @$3000
+>Poloniex buy order: 19316.04357 USDT > 8.39827982 YFI @$2300
+>Poloniex sell order: 8.39827982 YFI > 25194.83946 USDT @$3000
+>Poloniex buy order: 25194.83946 USDT > 10.95427803 YFI @$2300
+
+>Poloniex sell order: 10.95427803 YFI > 49294.251135 USDT @$4500
+>Poloniex buy order: 49294.251135 USDT > 12.97217136 YFI @$3800
+
+>Poloniex sell order: 12.97217136 YFI > 97291.2852 USDT @$7500
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

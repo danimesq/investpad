@@ -1,0 +1,14 @@
+uphold
+poloniex
+okex
+livecoin
+liquid
+kraken
+hitbtc
+cryptopia
+cex.io
+bittrex
+binance
+
+mercadobitcoin https://www.mercadobitcoin.com.br/conta/login/
+foxbit https://app.foxbit.com.br/login.html

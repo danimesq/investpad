@@ -882,13 +882,156 @@ poloniex sell YFI to USDT
 poloniex buy ETH
 poloniex withdraw eth 0x2eb42d2dab17a740207b5b0640a2ba7c4831db6065cb76c9c4c0f6cf45bc6e35
 poloniex deposit eth https://etherscan.io/tx/0x7391dbbd6a9666739f99af6406cda067d1efde3688ac2f1dad2403d3aed22b36
+buy yfi at 4061.22448979
+                                                      sell eth at 326
+sell YFI at 4428.57142857
+Total assets (Poloniex)
+1.12214937 BTC $12466,25
+Total assets (Poloniex)
+1.12388776 BTC $12485,56
+poloniex withdraw 24.66803137 ETH (total 24.67803137) 0xa5f42a1fdca4dcd3b43a8febd8275ac216b5493680eb471104ba6c475d8a961c
+swapping 3.16983 ETH for 0.0910496 WBTC https://etherscan.io/tx/0x14bac8c1df67b9638825b2850110918dd27f0d6fc5eddd414f3a0c1da6bba0f0
+curve deposit 1000 USD of WBTC
+poloniex deposit ETH https://etherscan.io/tx/0xccbd9472e063158ec4104d7bde0991b6e849b57f0be7d0182370a3862714d26e
+recharge mom card with 500 BRL 102.115733 USDT 0xca92feb52c6d57875878900d748fdba616ddc7b69a61fb85e3ae61964cab6b86
+poloniex withdraw 21.45558298 ETH (total 21.46558298) 0x2f97536e59f97cd9759c671692a63fb8f9314fdc6c8f4d8e011627c76c43698b
+uniswap ampl
+mxc.co deposit ampl https://etherscan.io/tx/0xb1465d6ebcd36f48f4bf0d0b63707e9d32e454accd828cc852e5f7de17d8e31b
+poloniex withdraw 4381.36551760 usdt (total 4383.3655176) 0xb5de9464bdbcd5545a6b7c7993f6726d0c640c039795646784620d6b15f35b6c
+mxc.co withdraw 6319.54526042 ampl (total 6320.54526042) https://cn.etherscan.com/tx/0x23d2b2f4ac0ee94a6e5c50e16eab9cb493a1640ebfee1518fc1f23ecc7e10a7e
+uniswaps
+https://app.ens.domains/name/leeroy.eth
+https://app.ens.domains/name/wekabot.eth
+https://app.ens.domains/name/heresy.eth
+https://app.ens.domains/name/daniellemesquita.eth
+https://app.ens.domains/name/daniellamesquita.eth
+
+consult CPF https://etherscan.io/tx/0x460306778bbea792dd6b5a004a08f21eb6b9c6b645dc2f729afbaf87efc3a0a0
+pay bill of VPS https://etherscan.io/tx/0xfb3f47973a56d191f205dd3dcf46e8088a05f5cad3963ac9d433885597194eb1
+
+usdt > eth
+
+https://app.ens.domains/name/yfii.eth
+https://app.ens.domains/name/peep.eth
+
+recharge phone 100 BRL https://etherscan.io/tx/0x303954e05375c18326a29d9b0f028ce7c30cd59aaf2df9836e00a75303de516e
+
+Poloniex deposit 1.638813547286984157 YFI https://etherscan.io/tx/0xbd4918aafa889e01fdaa0b86f73da415cabcb7bb03880a73fa7e533d39148553
+
+poloniex sell YFI
+poloniex buy bitcoin
+poloniex withdraw bitcoin https://chain.so/tx/BTC/d1ff20f988b2bc65b9cdd16bfd59194b2f5c6a832bde035cba5c8a33b16c73e0
+renbridge deposit bitcoin > renBTC https://etherscan.io/tx/0xb8d520e445706d854d759e3a52fbd0351bccfc3a0422c8c40e7f530b0cb8c6f1
+
+uniswap renBTC
+uniswaps
+
+------ all poloniex orders and eth tx
+------ calc all profits and losses, and also the missed profits
+
+poloniex deposit 2.67765604872258013 YFI https://etherscan.io/tx/0x92ed4e0fc7714452c5b114ef6da3ee82ca62a2f06381417c5e9ad7a3148001ba
+poloniex sell YFI
+poloniex withdraw USDT 0x9eebb31cb0a519a470be7f16fbfe3110021e8046cf0debedd6bbd75f4291c607
+uniswap
+poloniex deposit YFI https://etherscan.io/tx/0x2a01a214132ebc2131c8c2ab49b0dc8c317a4d54be6d56b361d867e1e28c6655
+poloniex withdraw YFI 0x5251762d3179194f139576f5c1bbd08de56ad0ee918960aa729396c0b4b8a7f4
+uniswap
+
+uniswaps
+
+deposits usdt/usdc in mxc/poloniex https://etherscan.io/tx/0xc9c78ec61c36a626d4fbebe15ed895915086733cd86fe67e57252199d507466b https://etherscan.io/tx/0xb7db645901d5b0c04ac4c912c15ad8dc456073ce679e0834ebcc895ad0968e9c
+
+mxc: ETH/USDT
+2020-08-10 14:55:08
+Buy
+396.58 USDT
+0.00000 / 12.91393 ETH
+5121.40 USDT
+
+MXC withdraw (total: 12.91393 ETH) https://cn.etherscan.com/tx/0x2b00eed6475cc484513b2920cc1ea740da4cd06f5eeba9c7d4aa53cc9e16aec8
+
+poloniex deposit eth https://etherscan.io/tx/0xc01b644a1cc85d7e6a6fbd6c8f3c762f2794aafbf6a4c0d0b2b31c756e161df2
+
+poloniex withdraw 22.66471626 ETH (total 22.67471626) 0xbcaaf64244b4a10d8400ec09e1a34d991d7c40c9046bbcd976e93a7c0dabd5fa
+
+uniswaps
+https://etherscan.io/tx/0x232ddc21e938ec90947755e89547985bebac9ffe45b85e028bf01ecbbfa56051
+https://etherscan.io/tx/0x98146f85b6ae1a414d7447cb624a102dff0c24343a92e2c96d7219b94c1a7e0e
+https://etherscan.io/tx/0xcfb748b4c5f79ff12a6999893cd75f2e92461bc84ccd81de7c34f47c5ae034ab
+https://etherscan.io/tx/0xae6c82e83ed5d4d1c7d6454ea4290be4ae2a9b67627a9458acaa1ccb3d689ee2
+https://etherscan.io/tx/0xd9e81f6421a435cbf3f8cc6bfe642443f5bc463b0c54464bafc42bf9125cbb6b
+https://etherscan.io/tx/0x98dec9653303d62880b7947850cb88c146a589eafcdb012661e089e101cae998
+https://etherscan.io/tx/0xcea48671af13edb3058bc06df5f472e2f268e11285b32e2778e97b03cc34908a
+https://etherscan.io/tx/0xb464ac18ca93104580057f6ba5384b38746bd0b6161d83aa733de7aa24e201df
+https://etherscan.io/tx/0xae872e98bc4c62205476b00be2b1045976b5a8fd0659b878399c5f978df5ccae
+https://etherscan.io/tx/0xe62ae1ea98feae95775efb0da180b7a863d93b5a2077e79b7e26969cc10b3bd9
+$40 / 0.1 ETH pay viidroid https://etherscan.io/address/0x597dde0b03039d508fe99a59a31801c25dbe50f2
+https://etherscan.io/tx/0x41e415e8956f8bb60d4726527b9f0da9abc8f412fc9bffe0adc4ca0b3f013c66
+https://etherscan.io/tx/0xdd4e68f20183a92970e153c7bb1b053468ebd8dc6dd4c0448a3e80ef90f38e73
+https://etherscan.io/tx/0x2b5438aed54236570f348981921d8d5beadeba98ceb75824aa5543642b6be8d3
+https://etherscan.io/tx/0x3b03403190c1d8307e131de9db05fca12d27a2cf6d8a654bacfcbb6698555577
+https://etherscan.io/tx/0x675a9d8cf3f69dd14206d183eea6922f18bfcc4d9589d22ee45a17f549230d48
+https://etherscan.io/tx/0x2e37289f02da891440647e4c42e1dc864e52f2e6b24c4776f6a5f6814baab061
+https://etherscan.io/tx/0x7f53942399872b3c09dd35ab8b5bed2d84366f15266f1dda92badfca85e35df8
+https://etherscan.io/tx/0x5bdad41061e887b6dcf890cc9e266c7765a88666e0089ef1d3b58215e2f274ca
+https://etherscan.io/tx/0xabbe947dcdd63e6e1565ff81d00fa13ff79a8cfda931f7d9079fd85522f07f7c
+https://etherscan.io/tx/0x49ec37a8515045c8f03ec45d612dcab66f5d661390c7c648b042d693f47af41a
+https://etherscan.io/tx/0x8c758835079fe7e1893c98d210cc7b3471f7508e7641b4086a49b071b65fbe99
+https://etherscan.io/tx/0xff719292aad46017ff71b0d1d5938d3f16e12f64bc4bf84314c35522180390bd
+https://etherscan.io/tx/0x900f16cda42cc6c5385f08f40c81e29c5723465800acc579c615bbe03e67c9f8
+https://etherscan.io/tx/0x4cc85fb6cdabb8774759aab62395f6dccbd01d33ac949e566a88c32bf034ee44
+https://etherscan.io/tx/0x8b10edff73f23ebac1fbc700a1ca20286f27625ddb6318811f2c0994a43337db
+https://etherscan.io/tx/0x1feee3e6f95b852d5770b64cbe2f978eb9b178a0c63b90086c0cedb404fde994
+https://etherscan.io/tx/0xf2f93a0b88a2abc29f56d0621e4bb8b2ea9d2aeaad7c71ab0f1e965875b2528c
+https://etherscan.io/tx/0xbf5b43f2be23c28478dece2848910cbdd5449767d9bdb677ae42e5b49249e042
+https://etherscan.io/tx/0x8ebdffe080b6fc6bdcf8e57455b04b57cac5726b6a7fa9ead1df237620f1705f
+https://etherscan.io/tx/0xe4ce371465524fadc7a1066710990fea0433cec17efd9d0bd15dc7b320404f8b
+https://etherscan.io/tx/0x1be8996436cbb8ceb1120276cf0653807e103fc039db15200ad280d43d819618
+https://etherscan.io/tx/0x26c297c932f21ab36f83fc32d090557fc833bd2930eda06e654234eecbb34f10
+https://etherscan.io/tx/0xc2149a2acf78083f4f8be67295337bc36570422db991c8a46a65636757f7d4b5
+https://etherscan.io/tx/0x0922b0c8abe5486d467ab68255d6d5cce5d0eff059839f2cf031ffbcacf47c51
+https://etherscan.io/tx/0x4eac0472505132104eb53af2662eb00e7122ceac54a295e9a79df8e39c6d9889
+https://etherscan.io/tx/0xd796bf07b7c0986dc3140673cdbfddb80c04ce99240588c346f6522e3af49f85
+https://etherscan.io/tx/0xb25414214f4e5c07072b91b0818c884a5830ea0f0d714bbd5eedabe9eaaecef6
+https://etherscan.io/tx/0x3e17c51d580e42cbc8c4a1f33dc69813298b847b2e616ed5202860e845faa5c6
+https://etherscan.io/tx/0x2520479e68d95f7374f88ec0e5c3b295e1808d3ce384049005b564cba644b80b
+https://etherscan.io/tx/0x152e1ab7e9836fa2460a0316f52fd1eafd6bcb00148bb615ca09e01720b4b471
+https://etherscan.io/tx/0x4d2b39e24aa9775d5928e86a88d533079a8ed31d446dacf1edb446e26b70828b
+https://etherscan.io/tx/0xf32b4dd69634c2aa84921f3725b18037febee4c6ff163031ad3970967967e06c
+https://etherscan.io/tx/0x090d0d620059962adfbb6d484acaa1dab3849a32e91cee8b565095076b5f7088
+https://etherscan.io/tx/0x90ec4b5abf766c07a614eaf3c338f0e716720179cbbbfcd9756d2f30d36eb6de
+https://etherscan.io/tx/0xcd541eff22e18c994c3a4e3e37f1a7881759373b8768866fd64a4c46e8eee894
+https://etherscan.io/tx/0x98e8ac5b267c6ec5bb9803b3a1f51abb20162780a3ba57716b2991cc34555826
+https://etherscan.io/tx/0x4d99c566aa75285c6e00fd9d6e08f890098e7de3f4dea049841aec3de7b8e179
+https://etherscan.io/tx/0x20c749097d2f85b2e932063b58702da8536344dff7fe10c2754b15c927239f75
+https://etherscan.io/tx/0xf9d515e57600ff974a625ac1bb33d3ccd127602dea7ba7f64e6b891a1447645e
+https://etherscan.io/tx/0xd5b41b776046f90d59b459fd587e08281c9d34e21738c928324dd9eb90a4fa4f
+https://etherscan.io/tx/0xad249ecae7da1f36fc5d11e3e48000bb0e137fc5fc7719254951a2c9a8ff53ce
+https://etherscan.io/tx/0xb5804444b9419371be705b1f45369086f7e23cc1f93dd64919b5cf8b5e0e417c
+https://etherscan.io/tx/0x95e5fa0d477978151bd3b548a3d858bd1dd76a6b78b8ed7d9b203e2af4313550
+https://etherscan.io/tx/0x2eda1d8a9dc435deafc0cff6397f38d28f03739d3c8dad5db8cd94c305acb96f
+https://etherscan.io/tx/0x4220ab02b088dea40e81e6a3fb6270dd911151430143dde1eed528f6b606218e
+https://etherscan.io/tx/0xe93bca2164ea8e8ad6f18b2a58322db1006007eae0ac21091e7827f748c821ec
+https://etherscan.io/tx/0x42a57867a5830ba7c57985a2b6a368e0e91b736fd306872d95cc8754b22bd2a8
+https://etherscan.io/tx/0xd5f4c93e698b12c0c3b89dc2aaf739f91f149e311ce1bb7db0b8408cbbcd0ba9
+
+https://etherscan.io/tx/0xfa18ffaa46dc5ca6947645bc29ef5f5372ae2f220f84726b49ff656df787c116
+https://etherscan.io/tx/0x339c78109890357e8e6d435f7ed6942a9b12a567c869ce11562ed8a2890256e9
+https://etherscan.io/tx/0x786293ae02bcedbae2c2c8f0cf1b88c7f9d267859ce3929f50a09dfe271be989
+https://www.oklink.com/eth/tx/0x5277c17c8ad2741a2b805ca8634615db9e8b7444e655484199d2bd983ddb5f00
+https://etherscan.io/tx/0xcac850654452dd642ce8c38467a11042c6f7ffcf1c70eab16ff2645b51bb2414
+https://www.oklink.com/btc/tx/4e3859a3954b5eb56e4648bdd4ed7f6346c26f7b918989c746ad83da931dadb6
+
+OKEx
+
+https://etherscan.io/tx/0x3f2a7c88c095d42954d7bd578b459c3ce9c7b7fc9e23e13bd58158234b864f21
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Preview:
       >Poloniex buy order: 11353.54113 USDT > 4.93632224 YFI @$2300
       >Poloniex sell order: 4.93632224 YFI > 14808.96672 USDT @$3000 (yet $12K)
       >Poloniex buy order: 14808.96672 USDT > 6.43868119 YFI @$2300
-      >Poloniex sell order: 6.43868119 YFI > 19316.04357 USDT @$3000
+>Poloniex sell order: 6.43868119 YFI > 19316.04357 USDT @$3000
 
 >Poloniex buy order: 19316.04357 USDT > 8.39827982 YFI @$2600
 >Poloniex sell order: 8.39827982 YFI > 25194.83946 USDT @$3000
@@ -899,3 +1042,52 @@ Preview:
 
 >Poloniex sell order: 12.97217136 YFI > 97291.2852 USDT @$7500
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+------------------------------------------------------------------------------------------------------------
+https://etherscan.io/tx/0x8c6da0b2120d2370ff648e0b30035fd2701656d8d744fd95d55f4218bb1abaec
+https://etherscan.io/tx/0xbf434e097d4ec3248dd53d93230573c5923723048911ba419ee1f80907ace7fe
+https://etherscan.io/tx/0xd712336ebb68b265bd1d878d3386f5205a5a9fe72c36aa0a9fe61422bc9fece6
+https://etherscan.io/tx/0x0f62c54ae5f23262a7ce0e85eb2f0ce7fa06a6502b90b6b35da08809d6b8f880
+https://etherscan.io/tx/0x0cae96c86be4db4f56ab5eaf939e8136f666a3cadd1f263f6bd97384c5dfe91f
+https://etherscan.io/tx/0xa1d863c4c0f37990aa5d08e7dd490f2696bfa4dc3575960e28aff852914ca7b4
+https://etherscan.io/tx/0xd74db34787c1b4751c9edba43d6043509a88f033595267041eecbae49fc7e465
+
+https://etherscan.io/tx/0xb0213a04efc4312c7a9a95921553f3fbf7023cf66821f8656a016b6fdfbb32c7
+https://etherscan.io/tx/0xa7ae640a8143720d05691e9a5b3a26d7cd66a3172747f811d4ba6cd62b513b6a
+https://etherscan.io/tx/0x79717b6d73fba82b8c32499c3eb71c58d53331d547b291dd835deb6c579a0942
+https://etherscan.io/tx/0x87e32a160c5337b49e68723de3a2127316d3d168d96a0c79f9ef6b9f3bc36573
+https://etherscan.io/tx/0xccaee80b8ea372a61aebcadc95788b1238bd960053d062d17199796caa09e863
+
+https://etherscan.io/tx/0xc90c59a42ca779a499abc355ef5b9e66618a0200eecd0118682688ea881e2ba0
+https://etherscan.io/tx/0x6c04f515ab0911ace7f928346de3b484524b737a2a37f9f24d9e58b57b698d7d
+https://etherscan.io/tx/0x7b8295f7500f69a61cb50dc56285a2bbc784cf463bc44430d12c99703d795a6a
+https://etherscan.io/tx/0x92c6966bd3ff5bfb91eed862dbedbbb629de2786d28b1c57541e611db5dc7e71
+https://etherscan.io/tx/0x1114ebb5f80c216b781b3798566cf54cb0e39d53748c529b895d09f76c618470
+https://etherscan.io/tx/0x94b5e3cac6b382df7d97c24c77446756533b1754be273f4ef0c4837907a2f77c
+https://etherscan.io/tx/0x5d57e613859324e1487de53b278310b7179b8350634e34bbf1082223aa896185
+https://etherscan.io/tx/0x4420c0d7d62889ab546a55d07149a25ac4af831b057ee29a29af29109791b5de
+https://etherscan.io/tx/0x03e6f675096bef0ec66fd4fb24a665375ab939fd38f6aed6bdf2970c4287682a
+https://etherscan.io/tx/0x8cf555e7c693ac6f6eab740a74223d2df7b270f2fe96863939e16b7019dba2d2
+https://etherscan.io/tx/0x3e9b4d9936b9ecb25c11d157bbf1db4eb72b1821be896f256da5fd413354e3b4
+https://etherscan.io/tx/0xba962c032bd1818c7d891ddb27b386df460547d218a5dbbe92db7278a009d63a
+https://etherscan.io/tx/0xe27c21de568508189119f2c5ef0096b31cdebb1c84808998b15e29c2f10c3367
+https://etherscan.io/tx/0x7563bd0b7e2442978f5d37fa7113dcad183aac7a4278650f2331f319c977cef0
+https://etherscan.io/tx/0xaa1d9c92c5da3e90f5ae1ab2e005d49c200f2eb3743a8694b836d02f56edfd6c
+https://etherscan.io/tx/0xc39b98f88aae3d8472b04a5828973442e4ea9a7c752894c064e025b073e84f13
+https://etherscan.io/tx/0x8df2eee6e3ce5f9ca76577761e7dc443e8350cada2ae01fa0fd61edbe025fc60
+https://etherscan.io/tx/0x2a99d5a5d7241bdebb5762b258a146ab3f97ff12b540b14f80923d2cf0184795
+https://etherscan.io/tx/0xd9d7c0afa09523fd8d3b418e0e96c51d5e0b28a2296415b0dc9b9b50665ef35d
+https://etherscan.io/tx/0xabd03522ea8ec706e41d6ec2c0835f46d70db8c1533a037346af7dae67b9006d
+https://etherscan.io/tx/0x0053bf55fe78e21eab2aeed9f0c8a7eda210baabd53d1227c69166d500801fc3
+https://etherscan.io/tx/0x20b127dc20c82c8e223488667ff832e80d66a027b8dfbc59864329aa6a1d7910
+https://etherscan.io/tx/0x1268a7b6e41c7714f5280e91ebd4b18e2c4163b9e0ab2f35c2b6aaa92883b82d
+https://etherscan.io/tx/0x2762f50fce72ec16a890ac85b2f675bc431b4ba0621ea417a75e375ccb24b5f6
+https://etherscan.io/tx/0x3633acf1e688a009e8f16bc1d617490bac36772b81b6902ccd1b488fcc34122d
+
+https://etherscan.io/tx/0x923c48ddb968924131058e7bd078efa1632efc6233261f081cec2bed80a0b06a
+https://etherscan.io/tx/0x4a20a0775091b93b7d351d2e992a568050450a28580192561bfda9242f722819
+https://etherscan.io/tx/0x91e70ec4bb4e64b5097b08f088da45ed4d92c5d14ef11d8314c9f599ae368df6
+https://etherscan.io/tx/0xeb97d6856b9c51c6f769a84a81aacf76dba6bd2feb9ce9f369cc16fbe0ebfeed
+
+P bll bd reader: https://etherscan.io/tx/0x5b8c908bf4e8265304bee9025da83486a0bca99766df212c0bbd193573a6893e
+------------------------------------------------------------------------------------------------------------
